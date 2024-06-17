@@ -1,0 +1,2863 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Agrillo_2008}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ca6bbac073724393d8b310f435c2a302}{%
+           family={Agrillo},
+           familyi={A\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5aa4be8041c0c03861d7dd8460b5f42d}{%
+           family={Dadda},
+           familyi={D\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d62d5384e8cef8dacc2c2ef54bb3c708}{%
+           family={Serena},
+           familyi={S\bibinitperiod},
+           given={Giovanna},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c121120e074c230cf061bff1cc4f9e11}{%
+           family={Bisazza},
+           familyi={B\bibinitperiod},
+           given={Angelo},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d70940406915cc499c9d3a9e37d2bfc3}
+      \strng{fullhash}{c16c89171f56d6ee9bc54894bcc0100a}
+      \strng{bibnamehash}{c16c89171f56d6ee9bc54894bcc0100a}
+      \strng{authorbibnamehash}{c16c89171f56d6ee9bc54894bcc0100a}
+      \strng{authornamehash}{d70940406915cc499c9d3a9e37d2bfc3}
+      \strng{authorfullhash}{c16c89171f56d6ee9bc54894bcc0100a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The spontaneous tendency to join the largest social group was used to investigate quantity discrimination in fish. Fish discriminated between shoals that differed by one element when the paired numbers were 1vs2, 2vs3 and 3vs4, but not when 4vs5 or larger. Using large numerosities (>4), the ability to discriminate between two numbers improved as the numerical distance between them increased and a significant discrimination was found only with ratios of 1:2 or smaller (4vs8, 8vs16 and 4vs10). Experiments to control for non-numerical variables evidenced the role played by the total area of stimuli with both large and small numerosities; the total quantity of movement of the fish within a shoal appeared also important but only when large numerosities were involved. Even though the pattern of discrimination exhibited by female mosquitofish is not fully consistent with any of the existing models of quantity representation, our results seem to suggest two distinct mechanisms in fish, one used to compare small numbers of objects and one used when larger numerosities are involved.}
+      \field{issue}{3}
+      \field{journaltitle}{Anim Cogn}
+      \field{month}{2}
+      \field{title}{Do fish count? Spontaneous discrimination of quantity in female mosquitofish}
+      \field{volume}{11}
+      \field{year}{2008}
+      \field{pages}{495\bibrangedash 503}
+      \range{pages}{9}
+    \endentry
+    \entry{Andics_2016}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=7adf6b51fed30675bb2cbb043731b9fc}{%
+           family={Andics},
+           familyi={A\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e688a81d6a8fcc7984f34916d78900e9}{%
+           family={Gábor},
+           familyi={G\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46ef7184b5cc1ae4edf0558b922ad660}{%
+           family={Gácsi},
+           familyi={G\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b787fc48c3bd3be6ddc5656f31021f1}{%
+           family={Faragó},
+           familyi={F\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=581249f7f0358fffb9192ab2b1db973e}{%
+           family={Szabó},
+           familyi={S\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19c1093299cb7c99a42578007b81af8e}{%
+           family={Miklósi},
+           familyi={M\bibinitperiod},
+           given={Á},
+           giveni={Á\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7851c54eb4c4df24e675ff00ef3576ac}
+      \strng{fullhash}{5304d9d5688244325fe678d1343e210f}
+      \strng{bibnamehash}{5304d9d5688244325fe678d1343e210f}
+      \strng{authorbibnamehash}{5304d9d5688244325fe678d1343e210f}
+      \strng{authornamehash}{7851c54eb4c4df24e675ff00ef3576ac}
+      \strng{authorfullhash}{5304d9d5688244325fe678d1343e210f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{During speech processing, human listeners can separately analyze lexical and intonational cues to arrive at a unified representation of communicative content. The evolution of this capacity can be best investigated by comparative studies. Using functional magnetic resonance imaging, we explored whether and how dog brains segregate and integrate lexical and intonational information. We found a hemispheric bias for processing meaningful words, independently of intonation; an auditory brain region for distinguishing intonationally marked and unmarked words; and increased activity in primary reward regions only when both lexical and intonational information were consistent with praise. Neural mechanisms to separately analyze and integrate word meaning and intonation in dogs suggest that this capacity can evolve in the absence of language.}
+      \field{issue}{6303}
+      \field{journaltitle}{Science}
+      \field{title}{Neural mechanisms for lexical processing in dogs}
+      \field{volume}{353}
+      \field{year}{2016}
+      \field{pages}{1030\bibrangedash 1032}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.aaf3777
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.aaf3777
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.aaf3777
+      \endverb
+    \endentry
+    \entry{Auersperg_2016}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=06db79f05bb5e07551ccb37944f10f63}{%
+           family={Auersperg},
+           familyi={A\bibinitperiod},
+           given={Alice\bibnamedelimb M\bibnamedelima I},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=671764498b2fc8da9d79f5aaae752875}{%
+           family={Borasinski},
+           familyi={B\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d76271f2a474e180c73716d6f9c202f}{%
+           family={Laumer},
+           familyi={L\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=081d5acba9ed73f6f04c73d89eb788ab}{%
+           family={Kacelnik},
+           familyi={K\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fa794ba2019f47632a3ce5d7c0703c99}
+      \strng{fullhash}{6388f8cc2b0606fc01c65b4035ae3d5a}
+      \strng{bibnamehash}{6388f8cc2b0606fc01c65b4035ae3d5a}
+      \strng{authorbibnamehash}{6388f8cc2b0606fc01c65b4035ae3d5a}
+      \strng{authornamehash}{fa794ba2019f47632a3ce5d7c0703c99}
+      \strng{authorfullhash}{6388f8cc2b0606fc01c65b4035ae3d5a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Innovative tool manufacture is rare and hard to isolate in animals. We show that an Indonesian generalist parrot, the Goffin's cockatoo, can flexibly and spontaneously transfer the manufacture of stick-type tools across three different materials. Each material required different manipulation patterns, including substrates that required active sculpting for achieving a functional, elongated shape.}
+      \field{issue}{11}
+      \field{journaltitle}{Biology Letters}
+      \field{title}{Goffin's cockatoos make the same tool type from different materials}
+      \field{volume}{12}
+      \field{year}{2016}
+      \field{pages}{20160689}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1098/rsbl.2016.0689
+      \endverb
+      \verb{urlraw}
+      \verb https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2016.0689
+      \endverb
+      \verb{url}
+      \verb https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2016.0689
+      \endverb
+    \endentry
+    \entry{Bond_2003}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6704d4f60929e701500de6cc0953f249}{%
+           family={Bond},
+           familyi={B\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c7d7fd67df8cfde85767396ff536e24}{%
+           family={Kamil},
+           familyi={K\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57517f1736d1f103718575a260eb0110}{%
+           family={Balda},
+           familyi={B\bibinitperiod},
+           given={Russell},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9503bae50fd0d5fb1f4408f7af368dfc}
+      \strng{fullhash}{0ff32288119257daf8c20513b33d36e9}
+      \strng{bibnamehash}{0ff32288119257daf8c20513b33d36e9}
+      \strng{authorbibnamehash}{0ff32288119257daf8c20513b33d36e9}
+      \strng{authornamehash}{9503bae50fd0d5fb1f4408f7af368dfc}
+      \strng{authorfullhash}{0ff32288119257daf8c20513b33d36e9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The social complexity hypothesis asserts that animals living in large social groups should display enhanced cognitive abilities along predictable dimensions. To test this concept, we compared highly social pinyon jays,Gymnorhinus cyanocephalus , with relatively nonsocial western scrub-jays, Aphelocoma californica, on two complex cognitive tasks relevant to the ability to track and assess social relationships. Pinyon jays learned to track multiple dyadic relationships more rapidly and more accurately than scrub-jays and appeared to display a more robust and accurate mechanism of transitive inference. These results provide a clear demonstration of the association between social complexity and cognition in animals. Copyright 2003 Published by Elsevier Science Ltd on behalf of The Association for the Study of Animal Behaviour.}
+      \field{journaltitle}{Animal Behaviour}
+      \field{month}{3}
+      \field{title}{Social Complexity and Transitive Inference in Corvids}
+      \field{volume}{65}
+      \field{year}{2003}
+      \field{pages}{479\bibrangedash 487}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1006/anbe.2003.2101
+      \endverb
+    \endentry
+    \entry{Call_2008}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=beea02e5d390b1a77f1d8cd065bd77af}{%
+           family={Call},
+           familyi={C\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77ba606992793299baec3aba2126873e}{%
+           family={Tomasello},
+           familyi={T\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9d7234a59c4f221b044090fbbfe55a90}
+      \strng{fullhash}{9d7234a59c4f221b044090fbbfe55a90}
+      \strng{bibnamehash}{9d7234a59c4f221b044090fbbfe55a90}
+      \strng{authorbibnamehash}{9d7234a59c4f221b044090fbbfe55a90}
+      \strng{authornamehash}{9d7234a59c4f221b044090fbbfe55a90}
+      \strng{authorfullhash}{9d7234a59c4f221b044090fbbfe55a90}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{On the 30th anniversary of Premack and Woodruff's seminal paper asking whether chimpanzees have a theory of mind, we review recent evidence that suggests in many respects they do, whereas in other respects they might not. Specifically, there is solid evidence from several different experimental paradigms that chimpanzees understand the goals and intentions of others, as well as the perception and knowledge of others. Nevertheless, despite several seemingly valid attempts, there is currently no evidence that chimpanzees understand false beliefs. Our conclusion for the moment is, thus, that chimpanzees understand others in terms of a perception-goal psychology, as opposed to a full-fledged, human-like belief-desire psychology. © 2008 Elsevier Ltd. All rights reserved.}
+      \field{issn}{13646613}
+      \field{issue}{5}
+      \field{journaltitle}{Trends in Cognitive Sciences}
+      \field{month}{5}
+      \field{title}{Does the chimpanzee have a theory of mind? 30 years later}
+      \field{volume}{12}
+      \field{year}{2008}
+      \field{pages}{187\bibrangedash 192}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.tics.2008.02.010
+      \endverb
+    \endentry
+    \entry{Clayton_1998}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=97f09666394cdaaa0f1cb5491d815fa8}{%
+           family={Clayton},
+           familyi={C\bibinitperiod},
+           given={Nicola\bibnamedelima S},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7686f77a33a42f8199a0fcbb70290d8}{%
+           family={Dickinson},
+           familyi={D\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7fcd4402f2c09d85b7e63e17e3629244}
+      \strng{fullhash}{7fcd4402f2c09d85b7e63e17e3629244}
+      \strng{bibnamehash}{7fcd4402f2c09d85b7e63e17e3629244}
+      \strng{authorbibnamehash}{7fcd4402f2c09d85b7e63e17e3629244}
+      \strng{authornamehash}{7fcd4402f2c09d85b7e63e17e3629244}
+      \strng{authorfullhash}{7fcd4402f2c09d85b7e63e17e3629244}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The recollection of past experiences allows us to recall what a particular event was, and where and when it occurred1,2, a form of memory that is thought to be unique to humans3. It is known, however, that food-storing birds remember the spatial location4,5,6 and contents6,7,8,9 of their caches. Furthermore, food-storing animals adapt their caching and recovery strategies to the perishability of food stores10,11,12,13, which suggests that they are sensitive to temporal factors. Here we show that scrub jays (Aphelocoma coerulescens) remember ‘when’ food items are stored by allowing them to recover perishable ‘wax worms’ (wax-moth larvae) and non-perishable peanuts which they had previously cached in visuospatially distinct sites. Jays searched preferentially for fresh wax worms, their favoured food, when allowed to recover them shortly after caching. However, they rapidly learned to avoid searching for worms after a longer interval during which the worms had decayed. The recovery preference of jays demonstrates memory of where and when particular food items were cached, thereby fulfilling the behavioural criteria for episodic-like memory in non-human animals.}
+      \field{issn}{1476-4687}
+      \field{issue}{6699}
+      \field{journaltitle}{Nature}
+      \field{title}{Episodic-like memory during cache recovery by scrub jays}
+      \field{volume}{395}
+      \field{year}{1998}
+      \field{pages}{272\bibrangedash 274}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1038/26216
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/26216
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/26216
+      \endverb
+    \endentry
+    \entry{Dong_2023}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=26d6780e380fae402d627e7aa3a59ca7}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Shihao},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0acdeee7f1966934420a4c220d188ee9}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd02408afcd4ca0c9ff72a3901cac6e9}{%
+           family={Nieh},
+           familyi={N\bibinitperiod},
+           given={James\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8a01a0b159e5bec0c7e235717206e21}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{67b104f0d383f12e6ee885536b308a41}
+      \strng{fullhash}{36c8c4b3f7482c97ac9e7b7e9bb6e35b}
+      \strng{bibnamehash}{36c8c4b3f7482c97ac9e7b7e9bb6e35b}
+      \strng{authorbibnamehash}{36c8c4b3f7482c97ac9e7b7e9bb6e35b}
+      \strng{authornamehash}{67b104f0d383f12e6ee885536b308a41}
+      \strng{authorfullhash}{36c8c4b3f7482c97ac9e7b7e9bb6e35b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Honey bees use a complex form of spatial referential communication. Their “waggle dance” communicates the direction, distance, and quality of a resource to nestmates by encoding celestial cues, retinal optic flow, and relative food value into motion and sound within the nest. We show that correct waggle dancing requires social learning. Bees without the opportunity to follow any dances before they first danced produced significantly more disordered dances with larger waggle angle divergence errors and encoded distance incorrectly. The former deficit improved with experience, but distance encoding was set for life. The first dances of bees that could follow other dancers showed neither impairment. Social learning, therefore, shapes honey bee signaling, as it does communication in human infants, birds, and multiple other vertebrate species. The honeybee waggle dance has long been recognized as a behavior that communicates information about resource location from a foraging worker to her nest mates. Dong et al. show that this complex dance is in part learned by young bees as they observe more experienced bees (see the Perspective by Chittka and Rossi). Specifically, bees that were not exposed to the dances of their older counterparts displayed more angle and distance errors than those that had a “tutor.” Although experience increased angle and direction accuracy, untutored bees were never able to recover accurate distance coding. Thus, as with birds, humans, and other social learning species, honeybees benefit from observing others of their kind that have experience. —SNV Honey bees use social signal learning to improve their ability to waggle dance, a complex example of nonhuman spatial referential communication.}
+      \field{issue}{6636}
+      \field{journaltitle}{Science}
+      \field{title}{Social signal learning of the waggle dance in honey bees}
+      \field{volume}{379}
+      \field{year}{2023}
+      \field{pages}{1015\bibrangedash 1018}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.ade1702
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.ade1702
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.ade1702
+      \endverb
+    \endentry
+    \entry{Doolittle_2014}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=64297b172a379cb5f56646caa960214a}{%
+           family={Doolittle},
+           familyi={D\bibinitperiod},
+           given={Emily\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5066d1d7c979920e0794ab4780ac86b}{%
+           family={Gingras},
+           familyi={G\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=942c12a691016f82b1677692c08fc93b}{%
+           family={Endres},
+           familyi={E\bibinitperiod},
+           given={Dominik\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7151d3a466879ea9b51109e4250b70a0}{%
+           family={Fitch},
+           familyi={F\bibinitperiod},
+           given={W.\bibnamedelimi T.},
+           giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {National Academy of Sciences}%
+      }
+      \strng{namehash}{b7c9121e3df6c8221350db52cebbb2f6}
+      \strng{fullhash}{e52e7269ff340640c893f4e190997ece}
+      \strng{bibnamehash}{e52e7269ff340640c893f4e190997ece}
+      \strng{authorbibnamehash}{e52e7269ff340640c893f4e190997ece}
+      \strng{authornamehash}{b7c9121e3df6c8221350db52cebbb2f6}
+      \strng{authorfullhash}{e52e7269ff340640c893f4e190997ece}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Many human musical scales, including the diatonic major scale prevalent in Western music, are built partially or entirely from intervals (ratios between adjacent frequencies) corresponding to small-integer proportions drawn from the harmonic series. Scientists have long debated the extent to which principles of scale generation in human music are biologically or culturally determined. Data from animal "song" may provide new insights into this discussion. Here, by examining pitch relationships using both a simple linear regression model and a Bayesian generative model, we show that most songs of the hermit thrush (Catharus guttatus) favor simple frequency ratios derived from the harmonic (or overtone) series. Furthermore, we show that this frequency selection results not from physical constraints governing peripheral production mechanisms but from active selection at a central level. These data provide the most rigorous empirical evidence to date of a bird song that makes use of the same mathematical principles that underlie Western and many non-Western musical scales, demonstrating surprising convergence between human and animal "song cultures." Although there is no evidence that the songs of most bird species follow the overtone series, our findings add to a small but growing body of research showing that a preference for small-integer frequency ratios is not unique to humans. These findings thus have important implications for current debates about the origins of human musical systems and may call for a reevaluation of existing theories of musical consonance based on specific human vocal characteristics.}
+      \field{issn}{10916490}
+      \field{issue}{46}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{month}{11}
+      \field{title}{Overtone-based pitch selection in hermit thrush song: Unexpected convergence with scale construction in human music}
+      \field{volume}{111}
+      \field{year}{2014}
+      \field{pages}{16616\bibrangedash 16621}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.1406023111
+      \endverb
+    \endentry
+    \entry{Giurfa_2022}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=2065d03d0c68d7864c6de08cf580308a}{%
+           family={Giurfa},
+           familyi={G\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fba5503a3f1b63182347f9ece286d18e}{%
+           family={Marcout},
+           familyi={M\bibinitperiod},
+           given={Claire},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f1c9ec4fbc6f0c157ba09b58c4d4fc9}{%
+           family={Hilpert},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=957677eca958fe51d656860ae1940378}{%
+           family={Thevenot},
+           familyi={T\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0673663b8b3b1f0ab0d465c2a0baa0a6}{%
+           family={Rugani},
+           familyi={R\bibinitperiod},
+           given={Rosa},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3846167e08de6e814fd3a1bc7a686bfe}
+      \strng{fullhash}{fc1a5a3c48eb0bd3b8d2da2ab87b2ac6}
+      \strng{bibnamehash}{fc1a5a3c48eb0bd3b8d2da2ab87b2ac6}
+      \strng{authorbibnamehash}{fc1a5a3c48eb0bd3b8d2da2ab87b2ac6}
+      \strng{authornamehash}{3846167e08de6e814fd3a1bc7a686bfe}
+      \strng{authorfullhash}{fc1a5a3c48eb0bd3b8d2da2ab87b2ac6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The “mental number line” (MNL) is a form of spatial numeric representation that associates small and large numbers with the left and right spaces, respectively. This spatio-numeric organization can be found in adult humans and has been related to cultural factors such as writing and reading habits. Yet, both human newborns and birds order numbers consistently with an MNL, thus raising the question of whether culture is a main explanation for MNL. Here, we explored the numeric sense of honey bees and show that after being trained to associate numbers with a sucrose reward, they order numbers not previously experienced from left to right according to their magnitude. Importantly, the location of a number on that scale varies with the reference number previously trained and does not depend on low-level cues present on numeric stimuli. We provide a series of neural explanations for this effect based on the extensive knowledge accumulated on the neural underpinnings of visual processing in honey bees and conclude that the MNL is a form of numeric representation that is evolutionarily conserved across nervous systems endowed with a sense of number, irrespective of their neural complexity.}
+      \field{issue}{44}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{title}{An insect brain organizes numbers on a left-to-right mental number line}
+      \field{volume}{119}
+      \field{year}{2022}
+      \field{pages}{e2203584119}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1073/pnas.2203584119
+      \endverb
+      \verb{urlraw}
+      \verb https://www.pnas.org/doi/abs/10.1073/pnas.2203584119
+      \endverb
+      \verb{url}
+      \verb https://www.pnas.org/doi/abs/10.1073/pnas.2203584119
+      \endverb
+    \endentry
+    \entry{Degregorio_2021}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=fae9b751d89b8510da99681d37fadc41}{%
+           family={Gregorio},
+           familyi={G\bibinitperiod},
+           given={Chiara\bibnamedelima De},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=580b612368393d4c68dfd4d9af4ade54}{%
+           family={Valente},
+           familyi={V\bibinitperiod},
+           given={Daria},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc6cc52b6ebc2d643835fd91a218f026}{%
+           family={Raimondi},
+           familyi={R\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d22faee60139767a1fd28de4f1249242}{%
+           family={Torti},
+           familyi={T\bibinitperiod},
+           given={Valeria},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e04cc8eada89b963b6d2539f78039096}{%
+           family={Miaretsoa},
+           familyi={M\bibinitperiod},
+           given={Longondraza},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72844f20a834fd8731bbf9717bca6089}{%
+           family={Friard},
+           familyi={F\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9504948ee96087e103f280634bad036c}{%
+           family={Giacoma},
+           familyi={G\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc33d4c89dedff9d403a16c15ce071be}{%
+           family={Ravignani},
+           familyi={R\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=898718977300fb3ebc1776b7b8a39447}{%
+           family={Gamba},
+           familyi={G\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cell Press}%
+      }
+      \strng{namehash}{cc4d27ff8c1d90966e2f412d6668c4db}
+      \strng{fullhash}{36fc20e5d1e80c3a727f22d6c60c2aaf}
+      \strng{bibnamehash}{36fc20e5d1e80c3a727f22d6c60c2aaf}
+      \strng{authorbibnamehash}{36fc20e5d1e80c3a727f22d6c60c2aaf}
+      \strng{authornamehash}{cc4d27ff8c1d90966e2f412d6668c4db}
+      \strng{authorfullhash}{36fc20e5d1e80c3a727f22d6c60c2aaf}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{What are the origins of musical rhythm? One approach to the biology and evolution of music consists in finding common musical traits across species. These similarities allow biomusicologists to infer when and how musical traits appeared in our species1. A parallel approach to the biology and evolution of music focuses on finding statistical universals in human music2. These include rhythmic features that appear above chance across musical cultures. One such universal is the production of categorical rhythms3, defined as those where temporal intervals between note onsets are distributed categorically rather than uniformly2,4,5. Prominent rhythm categories include those with intervals related by small integer ratios, such as 1:1 (isochrony) and 1:2, which translates as some notes being twice as long as their adjacent ones. In humans, universals are often defined in relation to the beat, a top-down cognitive process of inferring a temporal regularity from a complex musical scene1. Without assuming the presence of the beat in other animals, one can still investigate its downstream products, namely rhythmic categories with small integer ratios detected in recorded signals. Here we combine the comparative and statistical universals approaches, testing the hypothesis that rhythmic categories and small integer ratios should appear in species showing coordinated group singing3. We find that a lemur species displays, in its coordinated songs, the isochronous and 1:2 rhythm categories seen in human music, showing that such categories are not, among mammals, unique to humans3.}
+      \field{issn}{18790445}
+      \field{issue}{20}
+      \field{journaltitle}{Current Biology}
+      \field{month}{10}
+      \field{title}{Categorical rhythms in a singing primate}
+      \field{volume}{31}
+      \field{year}{2021}
+      \field{pages}{R1379\bibrangedash R1380}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.cub.2021.09.032
+      \endverb
+    \endentry
+    \entry{Gross_2009}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=da87d098bd8ee6237f335a0981677a75}{%
+           family={Gross},
+           familyi={G\bibinitperiod},
+           given={Hans\bibnamedelima J.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bddff52299e8730bebcde77928f1c920}{%
+           family={Pahl},
+           familyi={P\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e00554f0e8b3a8e24dff7ef27170fe40}{%
+           family={Si},
+           familyi={S\bibinitperiod},
+           given={Aung},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50f10f09174d83ca7fae4d7d22fb5495}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a355c1d371474909ea3fbd7fd364b2a}{%
+           family={Tautz},
+           familyi={T\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d35ddcdca5feee5b605d5bb2ee65d1e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Shaowu},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{1087c455ba45b9cdb3e5ce03a730bc2e}
+      \strng{fullhash}{c6643b04b43e0e31ba329484fa3eb9c6}
+      \strng{bibnamehash}{c6643b04b43e0e31ba329484fa3eb9c6}
+      \strng{authorbibnamehash}{c6643b04b43e0e31ba329484fa3eb9c6}
+      \strng{authornamehash}{1087c455ba45b9cdb3e5ce03a730bc2e}
+      \strng{authorfullhash}{c6643b04b43e0e31ba329484fa3eb9c6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although the numerical abilities of many vertebrate species have been investigated in the scientific literature, there are few convincing accounts of invertebrate numerical competence. Honeybees, Apis mellifera, by virtue of their other impressive cognitive feats, are a prime candidate for investigations of this nature. We therefore used the well-established delayed match-to-sample paradigm, to test the limits of honeybees' ability to match two visual patterns solely on the basis of the shared number of elements in the two patterns. Using a y-maze, we found that bees can not only differentiate between patterns containing two and three elements, but can also use this prior knowledge to differentiate three from four, without any additional training. However, bees trained on the two versus three task could not distinguish between higher numbers, such as four versus five, four versus six, or five versus six. Control experiments confirmed that the bees were not using cues such as the colour of the exact configuration of the visual elements, the combined area or edge length of the elements, or illusory contours formed by the elements. To our knowledge, this is the first report of number-based visual generalisation by an invertebrate.}
+      \field{issue}{1}
+      \field{journaltitle}{PLOS ONE}
+      \field{month}{5}
+      \field{title}{Number-Based Visual Generalisation in the Honeybee}
+      \field{volume}{4}
+      \field{year}{2009}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0004263
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1371/journal.pone.0004263
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1371/journal.pone.0004263
+      \endverb
+    \endentry
+    \entry{Here_2002}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2ed82796e17f8db73597351a01135b40}{%
+           family={Hare},
+           familyi={H\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78d21b7a6487d9a6ed2133b1d3849bba}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8732b2044368f4a81127df47a6b7003e}{%
+           family={Williamson},
+           familyi={W\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77ba606992793299baec3aba2126873e}{%
+           family={Tomasello},
+           familyi={T\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d9faa3951a1cc8890477c5d120e91e36}
+      \strng{fullhash}{e433b46d9e58dd430f1e59f21bfbbe0c}
+      \strng{bibnamehash}{e433b46d9e58dd430f1e59f21bfbbe0c}
+      \strng{authorbibnamehash}{e433b46d9e58dd430f1e59f21bfbbe0c}
+      \strng{authornamehash}{d9faa3951a1cc8890477c5d120e91e36}
+      \strng{authorfullhash}{e433b46d9e58dd430f1e59f21bfbbe0c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dogs are more skillful than great apes at a number of tasks in which they must read human communicative signals indicating the location of hidden food. In this study, we found that wolves who were raised by humans do not show these same skills, whereas domestic dog puppies only a few weeks old, even those that have had little human contact, do show these skills. These findings suggest that during the process of domestication, dogs have been selected for a set of social-cognitive abilities that enable them to communicate with humans in unique ways.}
+      \field{issue}{5598}
+      \field{journaltitle}{Science}
+      \field{title}{The Domestication of Social Cognition in Dogs}
+      \field{volume}{298}
+      \field{year}{2002}
+      \field{pages}{1634\bibrangedash 1636}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.1072702
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.1072702
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.1072702
+      \endverb
+    \endentry
+    \entry{Hauser_2000}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0e41f44b5bca72f1aed2becd6a5d3429}{%
+           family={Hauser},
+           familyi={H\bibinitperiod},
+           given={M\bibnamedelima D},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ad38b1a472d09cc506066fcbaec11e3}{%
+           family={Carey},
+           familyi={C\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1a2cbfaa4ebded7f65fa41c93f30ab0}{%
+           family={Hauser},
+           familyi={H\bibinitperiod},
+           given={L\bibnamedelima B},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{005f1f6bef9bf8fe146938ca9613f61d}
+      \strng{fullhash}{b34ddf27233133caf2ee787873dd57cc}
+      \strng{bibnamehash}{b34ddf27233133caf2ee787873dd57cc}
+      \strng{authorbibnamehash}{b34ddf27233133caf2ee787873dd57cc}
+      \strng{authornamehash}{005f1f6bef9bf8fe146938ca9613f61d}
+      \strng{authorfullhash}{b34ddf27233133caf2ee787873dd57cc}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Previous research has shown that animals possess considerable numerical abilities. However, this work was based on experiments involving extensive training, a small number of captive subjects and relatively artificial testing procedures. We present the results of experiments on over 200 semi-free-ranging rhesus monkeys using a task which involves no training and mimics a natural foraging problem. The subjects observed two experimenters place pieces of apple, one at a time, into each of two opaque containers. The experimenters then walked away so that the subjects could approach. The monkeys chose the container with the greater number of apple slices when the comparisons were one versus two, two versus three, three versus four and three versus five slices. They failed at four versus five, four versus six, four versus eight and three versus eight slices. Controls established that it was the representation of number which underlay their successful choices rather than the amount of time spent placing apple pieces into the box or the volume of apple placed in the box. The failures at values greater than three slices stand in striking contrast to other animal studies where training was involved and in which far superior numerical abilities were demonstrated. The range of success achieved by rhesus monkeys in this spontaneous-number task matches the range achieved by human infants and corresponds to the range encoded in the syntax of natural languages.}
+      \field{issue}{1445}
+      \field{journaltitle}{Proc Biol Sci}
+      \field{month}{4}
+      \field{title}{Spontaneous number representation in semi-free-ranging rhesus monkeys}
+      \field{volume}{267}
+      \field{year}{2000}
+      \field{pages}{829\bibrangedash 833}
+      \range{pages}{5}
+    \endentry
+    \entry{Howard_2018}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=05e8dcf2eaa1238a2aed1d3c4b0af2bd}{%
+           family={Howard},
+           familyi={H\bibinitperiod},
+           given={Scarlett\bibnamedelima R},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8d0023b1e838783e8d37c9018a67683}{%
+           family={Avarguès-Weber},
+           familyi={A\bibinithyphendelim W\bibinitperiod},
+           given={Aurore},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52d7892db27f1e1cbcb5641e87a5180d}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={Jair\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46e93e3354e043bb141116f04bf4accb}{%
+           family={Greentree},
+           familyi={G\bibinitperiod},
+           given={Andrew\bibnamedelima D},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d50ebcdc60c27e9a073f8d0ef5a4fdd4}{%
+           family={Dyer},
+           familyi={D\bibinitperiod},
+           given={Adrian\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{25c9e947821c1d016a74c788087a7753}
+      \strng{fullhash}{c799fe862d6f45f48ddb8b1ace084038}
+      \strng{bibnamehash}{c799fe862d6f45f48ddb8b1ace084038}
+      \strng{authorbibnamehash}{c799fe862d6f45f48ddb8b1ace084038}
+      \strng{authornamehash}{25c9e947821c1d016a74c788087a7753}
+      \strng{authorfullhash}{c799fe862d6f45f48ddb8b1ace084038}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It has been said that the development of an understanding of zero by society initiated a major intellectual advance in humans, and we have been thought to be unique in this understanding. Although recent research has shown that some other vertebrates understand the concept of the “empty set,” Howard et al. now show that an understanding of this concept is present in untrained honey bees (see the Perspective by Nieder). This finding suggests that such an understanding has evolved independently in distantly related species that deal with complexity in their environments, and that it may be more widespread than previously appreciated. Science, this issue p. 1124; see also p. 1069 Honey bees display an understanding that zero is an empty set at the base of the number line. Some vertebrates demonstrate complex numerosity concepts—including addition, sequential ordering of numbers, or even the concept of zero—but whether an insect can develop an understanding for such concepts remains unknown. We trained individual honey bees to the numerical concepts of “greater than” or “less than” using stimuli containing one to six elemental features. Bees could subsequently extrapolate the concept of less than to order zero numerosity at the lower end of the numerical continuum. Bees demonstrated an understanding that parallels animals such as the African grey parrot, nonhuman primates, and even preschool children.}
+      \field{issue}{6393}
+      \field{journaltitle}{Science}
+      \field{title}{Numerical ordering of zero in honey bees}
+      \field{volume}{360}
+      \field{year}{2018}
+      \field{pages}{1124\bibrangedash 1126}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.aar4975
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.aar4975
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.aar4975
+      \endverb
+    \endentry
+    \entry{Kaminski_2019}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=71707ac92e87255d378613510cbf3a12}{%
+           family={Kaminski},
+           familyi={K\bibinitperiod},
+           given={Juliane},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08eaec797b01ecefe46d964e9fb3d3e6}{%
+           family={Waller},
+           familyi={W\bibinitperiod},
+           given={Bridget\bibnamedelima M},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec7c491507b8aee59ba98a8a5111df71}{%
+           family={Diogo},
+           familyi={D\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ffd5a2754420462bd298c22e20fbb78}{%
+           family={Hartstone-Rose},
+           familyi={H\bibinithyphendelim R\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0df6cfac9d2601d4edc79044673e00c4}{%
+           family={Burrows},
+           familyi={B\bibinitperiod},
+           given={Anne\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{54e200e119d019ef518ecd391e3bda3b}
+      \strng{fullhash}{2593fcde31109f86d4001ce42ace9312}
+      \strng{bibnamehash}{2593fcde31109f86d4001ce42ace9312}
+      \strng{authorbibnamehash}{2593fcde31109f86d4001ce42ace9312}
+      \strng{authornamehash}{54e200e119d019ef518ecd391e3bda3b}
+      \strng{authorfullhash}{2593fcde31109f86d4001ce42ace9312}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Domestication shaped wolves into dogs and transformed both their behavior and their anatomy. Here we show that, in only 33,000 y, domestication transformed the facial muscle anatomy of dogs specifically for facial communication with humans. Based on dissections of dog and wolf heads, we show that the levator anguli oculi medialis, a muscle responsible for raising the inner eyebrow intensely, is uniformly present in dogs but not in wolves. Behavioral data, collected from dogs and wolves, show that dogs produce the eyebrow movement significantly more often and with higher intensity than wolves do, with highest-intensity movements produced exclusively by dogs. Interestingly, this movement increases paedomorphism and resembles an expression that humans produce when sad, so its production in dogs may trigger a nurturing response in humans. We hypothesize that dogs with expressive eyebrows had a selection advantage and that “puppy dog eyes” are the result of selection based on humans’ preferences.}
+      \field{issue}{29}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{title}{Evolution of facial muscle anatomy in dogs}
+      \field{volume}{116}
+      \field{year}{2019}
+      \field{pages}{14677\bibrangedash 14681}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1073/pnas.1820653116
+      \endverb
+      \verb{urlraw}
+      \verb https://www.pnas.org/doi/abs/10.1073/pnas.1820653116
+      \endverb
+      \verb{url}
+      \verb https://www.pnas.org/doi/abs/10.1073/pnas.1820653116
+      \endverb
+    \endentry
+    \entry{Martinho_2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e1cfc162261e0094d0033c21fa6fdc9e}{%
+           family={Martinho},
+           familyi={M\bibinitperiod},
+           given={Antone},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=081d5acba9ed73f6f04c73d89eb788ab}{%
+           family={Kacelnik},
+           familyi={K\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f0d5da959fa9094ec2a3b1549decc015}
+      \strng{fullhash}{f0d5da959fa9094ec2a3b1549decc015}
+      \strng{bibnamehash}{f0d5da959fa9094ec2a3b1549decc015}
+      \strng{authorbibnamehash}{f0d5da959fa9094ec2a3b1549decc015}
+      \strng{authornamehash}{f0d5da959fa9094ec2a3b1549decc015}
+      \strng{authorfullhash}{f0d5da959fa9094ec2a3b1549decc015}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The ability to identify and retain logical relations between stimuli and apply them to novel stimuli is known as relational concept learning. This has been demonstrated in a few animal species after extensive reinforcement training, and it reveals the brain’s ability to deal with abstract properties. Here we describe relational concept learning in newborn ducklings without reinforced training. Newly hatched domesticated mallards that were briefly exposed to a pair of objects that were either the same or different in shape or color later preferred to follow pairs of new objects exhibiting the imprinted relation. Thus, even in a seemingly rigid and very rapid form of learning such as filial imprinting, the brain operates with abstract conceptual reasoning, a faculty often assumed to be reserved to highly intelligent organisms.}
+      \field{issue}{6296}
+      \field{journaltitle}{Science}
+      \field{title}{Ducklings imprint on the relational concept of “same or different”}
+      \field{volume}{353}
+      \field{year}{2016}
+      \field{pages}{286\bibrangedash 288}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.aaf4247
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.aaf4247
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.aaf4247
+      \endverb
+    \endentry
+    \entry{Mehr_2019}{article}{}
+      \name{author}{19}{}{%
+        {{un=0,uniquepart=base,hash=8011199ace086a8ff1fd2b64e8c90364}{%
+           family={Mehr},
+           familyi={M\bibinitperiod},
+           given={Samuel\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e08f124bc583f0dc1f861a67fe6d38cc}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Manvir},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32971f266f3d68d26dd36de9238a793e}{%
+           family={Knox},
+           familyi={K\bibinitperiod},
+           given={Dean},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81c664908494301fe77b326fb3c6ba5d}{%
+           family={Ketter},
+           familyi={K\bibinitperiod},
+           given={Daniel\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de8f71ca12e1e39a435cbeb7df48af7f}{%
+           family={Pickens-Jones},
+           familyi={P\bibinithyphendelim J\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=405a6463411cf3d8e69b18eb8bc6ff0f}{%
+           family={Atwood},
+           familyi={A\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3995dda0933bb03d997dfe71bb50dea0}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c7777fd4abb57030b9112f7304e0cd8}{%
+           family={Jacoby},
+           familyi={J\bibinitperiod},
+           given={Nori},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=510f21de32fd70f879c364d570f4d0e2}{%
+           family={Egner},
+           familyi={E\bibinitperiod},
+           given={Alena\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9649aad4af2eed320b29b6fc2b80a0d8}{%
+           family={Hopkins},
+           familyi={H\bibinitperiod},
+           given={Erin\bibnamedelima J},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a899fcc870ecb0dc696f08ce834f8603}{%
+           family={Howard},
+           familyi={H\bibinitperiod},
+           given={Rhea\bibnamedelima M},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=798fec119470953434a0b8628656817a}{%
+           family={Hartshorne},
+           familyi={H\bibinitperiod},
+           given={Joshua\bibnamedelima K},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=616f86b5f58389ced0e8c8d65cfdcbc5}{%
+           family={Jennings},
+           familyi={J\bibinitperiod},
+           given={Mariela\bibnamedelima V},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2bd8614a3288e306b7f373883b47faab}{%
+           family={Simson},
+           familyi={S\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71e8192ae7fb60b3acd7778da034a8ab}{%
+           family={Bainbridge},
+           familyi={B\bibinitperiod},
+           given={Constance\bibnamedelima M},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=026a9bbaeb03e57886733eb6c1f1be1c}{%
+           family={Pinker},
+           familyi={P\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd789a42084bf12a4a54033bf93069a4}{%
+           family={O’Donnell},
+           familyi={O\bibinitperiod},
+           given={Timothy\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89aac1e1ef9a2f45deef773919bc097e}{%
+           family={Krasnow},
+           familyi={K\bibinitperiod},
+           given={Max\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a2c51bc1eaa04b841e5a3baf626a77e}{%
+           family={Glowacki},
+           familyi={G\bibinitperiod},
+           given={Luke},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7efb43505b5642adb1877ef486e59b0a}
+      \strng{fullhash}{75ad0fc12957895fdc340b637763623e}
+      \strng{bibnamehash}{75ad0fc12957895fdc340b637763623e}
+      \strng{authorbibnamehash}{75ad0fc12957895fdc340b637763623e}
+      \strng{authornamehash}{7efb43505b5642adb1877ef486e59b0a}
+      \strng{authorfullhash}{75ad0fc12957895fdc340b637763623e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It is unclear whether there are universal patterns to music across cultures. Mehr et al. examined ethnographic data and observed music in every society sampled (see the Perspective by Fitch and Popescu). For songs specifically, three dimensions characterize more than 25\% of the performances studied: formality of the performance, arousal level, and religiosity. There is more variation in musical behavior within societies than between societies, and societies show similar levels of within-society variation in musical behavior. At the same time, one-third of societies significantly differ from average for any given dimension, and half of all societies differ from average on at least one dimension, indicating variability across cultures. Science, this issue p. eaax0868; see also p. 944 Songs exhibit universal patterns across cultures. What is universal about music, and what varies? We built a corpus of ethnographic text on musical behavior from a representative sample of the world’s societies, as well as a discography of audio recordings. The ethnographic corpus reveals that music (including songs with words) appears in every society observed; that music varies along three dimensions (formality, arousal, religiosity), more within societies than across them; and that music is associated with certain behavioral contexts such as infant care, healing, dance, and love. The discography—analyzed through machine summaries, amateur and expert listener ratings, and manual transcriptions—reveals that acoustic features of songs predict their primary behavioral context; that tonality is widespread, perhaps universal; that music varies in rhythmic and melodic complexity; and that elements of melodies and rhythms found worldwide follow power laws.}
+      \field{issue}{6468}
+      \field{journaltitle}{Science}
+      \field{title}{Universality and diversity in human song}
+      \field{volume}{366}
+      \field{year}{2019}
+      \field{pages}{eaax0868}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1126/science.aax0868
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.aax0868
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.aax0868
+      \endverb
+    \endentry
+    \entry{Nagasawa_2015}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=86ded21c53a56dc07b9ed496498afe3e}{%
+           family={Nagasawa},
+           familyi={N\bibinitperiod},
+           given={Miho},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2bb0222339cd17eec41728069f4d1bfe}{%
+           family={Mitsui},
+           familyi={M\bibinitperiod},
+           given={Shouhei},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ba8de2f7a9e36694e28dc3dbc71d467}{%
+           family={En},
+           familyi={E\bibinitperiod},
+           given={Shiori},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70fa1c58aac24f61ff8cf37cc5215d5f}{%
+           family={Ohtani},
+           familyi={O\bibinitperiod},
+           given={Nobuyo},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=681915fc7de47c54f2e205382c680c8f}{%
+           family={Ohta},
+           familyi={O\bibinitperiod},
+           given={Mitsuaki},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41bb0449bd3fb2a80c5bf142c0d47161}{%
+           family={Sakuma},
+           familyi={S\bibinitperiod},
+           given={Yasuo},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a5058d4158c85fbbd6c54f466a489ce}{%
+           family={Onaka},
+           familyi={O\bibinitperiod},
+           given={Tatsushi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69319ff533352c3f37b13d91b1c47a08}{%
+           family={Mogi},
+           familyi={M\bibinitperiod},
+           given={Kazutaka},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ccc069bc442b712735c917a8f123557}{%
+           family={Kikusui},
+           familyi={K\bibinitperiod},
+           given={Takefumi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4158d3abf1bc42c14e02d4908b7c84e9}
+      \strng{fullhash}{b2fdc38f393825a37c1a3afd35a2020b}
+      \strng{bibnamehash}{b2fdc38f393825a37c1a3afd35a2020b}
+      \strng{authorbibnamehash}{b2fdc38f393825a37c1a3afd35a2020b}
+      \strng{authornamehash}{4158d3abf1bc42c14e02d4908b7c84e9}
+      \strng{authorfullhash}{b2fdc38f393825a37c1a3afd35a2020b}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Humans bond emotionally as we gaze into each other's eyes—a process mediated by the hormone oxytocin. Nagasawa et al. show that such gaze-mediated bonding also exists between us and our closest animal companions, dogs (see the Perspective by MacLean and Hare). They found that mutual gazing increased oxytocin levels, and sniffing oxytocin increased gazing in dogs, an effect that transferred to their owners. Wolves, who rarely engage in eye contact with their human handlers, seem resistant to this effect. Science, this issue p. 333; see also p. 280 The human-dog bond is facilitated by the interaction of oxytocin feedback loops that emerged over the course of domestication. [Also see Perspective by MacLean and Hare] Human-like modes of communication, including mutual gaze, in dogs may have been acquired during domestication with humans. We show that gazing behavior from dogs, but not wolves, increased urinary oxytocin concentrations in owners, which consequently facilitated owners’ affiliation and increased oxytocin concentration in dogs. Further, nasally administered oxytocin increased gazing behavior in dogs, which in turn increased urinary oxytocin concentrations in owners. These findings support the existence of an interspecies oxytocin-mediated positive loop facilitated and modulated by gazing, which may have supported the coevolution of human-dog bonding by engaging common modes of communicating social attachment.}
+      \field{issue}{6232}
+      \field{journaltitle}{Science}
+      \field{title}{Oxytocin-gaze positive loop and the coevolution of human-dog bonds}
+      \field{volume}{348}
+      \field{year}{2015}
+      \field{pages}{333\bibrangedash 336}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1261022
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.1261022
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.1261022
+      \endverb
+    \endentry
+    \entry{Pena_2003}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=884ec5e2575f3635ab5a083d34ac8e9b}{%
+           family={Peña},
+           familyi={P\bibinitperiod},
+           given={Marcela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cd7ccd74208e03771a8467db47d7279}{%
+           family={Maki},
+           familyi={M\bibinitperiod},
+           given={Atsushi},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=180076227253d74a8cb34f8afd210466}{%
+           family={Kovac̆ić},
+           familyi={K\bibinitperiod},
+           given={Damir},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0bae3bb27099d92d18b80ad8452386d}{%
+           family={Dehaene-Lambertz},
+           familyi={D\bibinithyphendelim L\bibinitperiod},
+           given={Ghislaine},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10a4414f4aa693d09a7fc78b34e04a4c}{%
+           family={Koizumi},
+           familyi={K\bibinitperiod},
+           given={Hideaki},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0c5e53e700adc0637e9fbd54b585725}{%
+           family={Bouquet},
+           familyi={B\bibinitperiod},
+           given={Furio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2db544a969f488fa2ccd883d9724cb88}{%
+           family={Mehler},
+           familyi={M\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{47de2982a72fceaf6bc92d4804577f4a}
+      \strng{fullhash}{27de3a795593c00da3d53d8c902b2d5f}
+      \strng{bibnamehash}{27de3a795593c00da3d53d8c902b2d5f}
+      \strng{authorbibnamehash}{27de3a795593c00da3d53d8c902b2d5f}
+      \strng{authornamehash}{47de2982a72fceaf6bc92d4804577f4a}
+      \strng{authorfullhash}{27de3a795593c00da3d53d8c902b2d5f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Does the neonate's brain have left hemisphere (LH) dominance for speech? Twelve full-term neonates participated in an optical topography study designed to assess whether the neonate brain responds specifically to linguistic stimuli. Participants were tested with normal infant-directed speech, with the same utterances played in reverse and without auditory stimulation. We used a 24-channel optical topography device to assess changes in the concentration of total hemoglobin in response to auditory stimulation in 12 areas of the right hemisphere and 12 areas of the LH. We found that LH temporal areas showed significantly more activation when infants were exposed to normal speech than to backward speech or silence. We conclude that neonates are born with an LH superiority to process specific properties of speech.}
+      \field{issue}{20}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{title}{Sounds and silence: An optical topography study of language recognition at birth}
+      \field{volume}{100}
+      \field{year}{2003}
+      \field{pages}{11702\bibrangedash 11705}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1073/pnas.1934290100
+      \endverb
+      \verb{urlraw}
+      \verb https://www.pnas.org/doi/abs/10.1073/pnas.1934290100
+      \endverb
+      \verb{url}
+      \verb https://www.pnas.org/doi/abs/10.1073/pnas.1934290100
+      \endverb
+    \endentry
+    \entry{Caroline_2007}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ba9f3e7dae4304e59f82997b98b7aaee}{%
+           family={Raby},
+           familyi={R\bibinitperiod},
+           given={Caroline\bibnamedelima R},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86b478f922c3fc50042fb553231e20c8}{%
+           family={Alexis},
+           familyi={A\bibinitperiod},
+           given={Dean\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7686f77a33a42f8199a0fcbb70290d8}{%
+           family={Dickinson},
+           familyi={D\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97f09666394cdaaa0f1cb5491d815fa8}{%
+           family={Clayton},
+           familyi={C\bibinitperiod},
+           given={Nicola\bibnamedelima S},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2faeba48b68998d1d3d813de1dd662e1}
+      \strng{fullhash}{ad0cd83022e0cf73017b7b9552b770e7}
+      \strng{bibnamehash}{ad0cd83022e0cf73017b7b9552b770e7}
+      \strng{authorbibnamehash}{ad0cd83022e0cf73017b7b9552b770e7}
+      \strng{authornamehash}{2faeba48b68998d1d3d813de1dd662e1}
+      \strng{authorfullhash}{ad0cd83022e0cf73017b7b9552b770e7}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{Planning for the future by western scrub-jays}
+      \field{volume}{445}
+      \field{year}{2007}
+      \field{pages}{919\bibrangedash 921}
+      \range{pages}{3}
+      \verb{urlraw}
+      \verb https://api.semanticscholar.org/CorpusID:4405897
+      \endverb
+      \verb{url}
+      \verb https://api.semanticscholar.org/CorpusID:4405897
+      \endverb
+    \endentry
+    \entry{Rugani_2015}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=0673663b8b3b1f0ab0d465c2a0baa0a6}{%
+           family={Rugani},
+           familyi={R\bibinitperiod},
+           given={Rosa},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1558606154e9f0084a1fa24e99282b36}{%
+           family={Vallortigara},
+           familyi={V\bibinitperiod},
+           given={Giorgio},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7b2fb81bb04f40bdbf533e85ba16459}{%
+           family={Priftis},
+           familyi={P\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb488d54572572cfd177a6b054006c7f}{%
+           family={Regolin},
+           familyi={R\bibinitperiod},
+           given={Lucia},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b145785e75981078046953ca9adab3a8}
+      \strng{fullhash}{3a4b29983c343f4351f50e09d867db9b}
+      \strng{bibnamehash}{3a4b29983c343f4351f50e09d867db9b}
+      \strng{authorbibnamehash}{3a4b29983c343f4351f50e09d867db9b}
+      \strng{authornamehash}{b145785e75981078046953ca9adab3a8}
+      \strng{authorfullhash}{3a4b29983c343f4351f50e09d867db9b}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{For the most part, humans represent numbers across a mental number line, with smaller numbers on the left and larger numbers on the right. Some have argued that this is due to culture rather than being innate. Rugani et al., however, show that 3-day-old chicks share this representation of numbers, consistently seeking lower numbers to the left of a target and larger numbers to the right (see the Perspective by Brugger). These results suggest that there may be an innate spatial representation of numerical values that we share with other animals. Science, this issue p. 534; see also p. 477 Baby chicks also “count” from left to right. [Also see Perspective by Brugger] Humans represent numbers along a mental number line (MNL), where smaller values are located on the left and larger on the right. The origin of the MNL and its connections with cultural experience are unclear: Pre-verbal infants and nonhuman species master a variety of numerical abilities, supporting the existence of evolutionary ancient precursor systems. In our experiments, 3-day-old domestic chicks, once familiarized with a target number (5), spontaneously associated a smaller number (2) with the left space and a larger number (8) with the right space. The same number (8), though, was associated with the left space when the target number was 20. Similarly to humans, chicks associate smaller numbers with the left space and larger numbers with the right space.}
+      \field{issue}{6221}
+      \field{journaltitle}{Science}
+      \field{title}{Number-space mapping in the newborn chick resembles humans’ mental number line}
+      \field{volume}{347}
+      \field{year}{2015}
+      \field{pages}{534\bibrangedash 536}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.aaa1379
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.aaa1379
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.aaa1379
+      \endverb
+    \endentry
+    \entry{Rutz_2016}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6cd24f52d58ab732411d044226504df0}{%
+           family={Rutz},
+           familyi={R\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be60a4c29d27d9ae33ce713031f87777}{%
+           family={Sugasawa},
+           familyi={S\bibinitperiod},
+           given={Shoko},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85d5e273bb91fb1c48a1fa14ca7f518f}{%
+           family={Wal},
+           familyi={W\bibinitperiod},
+           given={Jessica\bibnamedelimb E\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8cec99f11ba8137ad7911f80e27eae5e}{%
+           family={Klump},
+           familyi={K\bibinitperiod},
+           given={Barbara\bibnamedelima C},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ef5b2dec554693cabc03a6761dc1b81}{%
+           family={Clair},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelimb J\bibnamedelimb H\bibnamedelima St},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e98a883ad8c9c94e87783f28371c2e85}
+      \strng{fullhash}{acf32d0646c1bd22232b5ae397fca51e}
+      \strng{bibnamehash}{acf32d0646c1bd22232b5ae397fca51e}
+      \strng{authorbibnamehash}{acf32d0646c1bd22232b5ae397fca51e}
+      \strng{authornamehash}{e98a883ad8c9c94e87783f28371c2e85}
+      \strng{authorfullhash}{acf32d0646c1bd22232b5ae397fca51e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{‘Betty’ the New Caledonian crow astonished the world when she ‘spontaneously’ bent straight pieces of garden wire into hooked foraging tools. Recent field experiments have revealed that tool bending is part of the species' natural behavioural repertoire, providing important context for interpreting Betty's iconic wire-bending feat. More generally, this discovery provides a compelling illustration of how natural history observations can inform laboratory-based research into the cognitive capacities of non-human animals.}
+      \field{issue}{8}
+      \field{journaltitle}{Royal Society Open Science}
+      \field{title}{Tool bending in New Caledonian crows}
+      \field{volume}{3}
+      \field{year}{2016}
+      \field{pages}{160439}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1098/rsos.160439
+      \endverb
+      \verb{urlraw}
+      \verb https://royalsocietypublishing.org/doi/abs/10.1098/rsos.160439
+      \endverb
+      \verb{url}
+      \verb https://royalsocietypublishing.org/doi/abs/10.1098/rsos.160439
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{Agrillo_2008}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ca6bbac073724393d8b310f435c2a302}{%
+           family={Agrillo},
+           familyi={A\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5aa4be8041c0c03861d7dd8460b5f42d}{%
+           family={Dadda},
+           familyi={D\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d62d5384e8cef8dacc2c2ef54bb3c708}{%
+           family={Serena},
+           familyi={S\bibinitperiod},
+           given={Giovanna},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c121120e074c230cf061bff1cc4f9e11}{%
+           family={Bisazza},
+           familyi={B\bibinitperiod},
+           given={Angelo},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d70940406915cc499c9d3a9e37d2bfc3}
+      \strng{fullhash}{c16c89171f56d6ee9bc54894bcc0100a}
+      \strng{bibnamehash}{c16c89171f56d6ee9bc54894bcc0100a}
+      \strng{authorbibnamehash}{c16c89171f56d6ee9bc54894bcc0100a}
+      \strng{authornamehash}{d70940406915cc499c9d3a9e37d2bfc3}
+      \strng{authorfullhash}{c16c89171f56d6ee9bc54894bcc0100a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The spontaneous tendency to join the largest social group was used to investigate quantity discrimination in fish. Fish discriminated between shoals that differed by one element when the paired numbers were 1vs2, 2vs3 and 3vs4, but not when 4vs5 or larger. Using large numerosities (>4), the ability to discriminate between two numbers improved as the numerical distance between them increased and a significant discrimination was found only with ratios of 1:2 or smaller (4vs8, 8vs16 and 4vs10). Experiments to control for non-numerical variables evidenced the role played by the total area of stimuli with both large and small numerosities; the total quantity of movement of the fish within a shoal appeared also important but only when large numerosities were involved. Even though the pattern of discrimination exhibited by female mosquitofish is not fully consistent with any of the existing models of quantity representation, our results seem to suggest two distinct mechanisms in fish, one used to compare small numbers of objects and one used when larger numerosities are involved.}
+      \field{issue}{3}
+      \field{journaltitle}{Anim Cogn}
+      \field{month}{2}
+      \field{title}{Do fish count? Spontaneous discrimination of quantity in female mosquitofish}
+      \field{volume}{11}
+      \field{year}{2008}
+      \field{pages}{495\bibrangedash 503}
+      \range{pages}{9}
+    \endentry
+    \entry{Andics_2016}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=7adf6b51fed30675bb2cbb043731b9fc}{%
+           family={Andics},
+           familyi={A\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e688a81d6a8fcc7984f34916d78900e9}{%
+           family={Gábor},
+           familyi={G\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46ef7184b5cc1ae4edf0558b922ad660}{%
+           family={Gácsi},
+           familyi={G\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b787fc48c3bd3be6ddc5656f31021f1}{%
+           family={Faragó},
+           familyi={F\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=581249f7f0358fffb9192ab2b1db973e}{%
+           family={Szabó},
+           familyi={S\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19c1093299cb7c99a42578007b81af8e}{%
+           family={Miklósi},
+           familyi={M\bibinitperiod},
+           given={Á},
+           giveni={Á\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7851c54eb4c4df24e675ff00ef3576ac}
+      \strng{fullhash}{5304d9d5688244325fe678d1343e210f}
+      \strng{bibnamehash}{5304d9d5688244325fe678d1343e210f}
+      \strng{authorbibnamehash}{5304d9d5688244325fe678d1343e210f}
+      \strng{authornamehash}{7851c54eb4c4df24e675ff00ef3576ac}
+      \strng{authorfullhash}{5304d9d5688244325fe678d1343e210f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{During speech processing, human listeners can separately analyze lexical and intonational cues to arrive at a unified representation of communicative content. The evolution of this capacity can be best investigated by comparative studies. Using functional magnetic resonance imaging, we explored whether and how dog brains segregate and integrate lexical and intonational information. We found a hemispheric bias for processing meaningful words, independently of intonation; an auditory brain region for distinguishing intonationally marked and unmarked words; and increased activity in primary reward regions only when both lexical and intonational information were consistent with praise. Neural mechanisms to separately analyze and integrate word meaning and intonation in dogs suggest that this capacity can evolve in the absence of language.}
+      \field{issue}{6303}
+      \field{journaltitle}{Science}
+      \field{title}{Neural mechanisms for lexical processing in dogs}
+      \field{volume}{353}
+      \field{year}{2016}
+      \field{pages}{1030\bibrangedash 1032}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.aaf3777
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.aaf3777
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.aaf3777
+      \endverb
+    \endentry
+    \entry{Auersperg_2016}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=06db79f05bb5e07551ccb37944f10f63}{%
+           family={Auersperg},
+           familyi={A\bibinitperiod},
+           given={Alice\bibnamedelimb M\bibnamedelima I},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=671764498b2fc8da9d79f5aaae752875}{%
+           family={Borasinski},
+           familyi={B\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d76271f2a474e180c73716d6f9c202f}{%
+           family={Laumer},
+           familyi={L\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=081d5acba9ed73f6f04c73d89eb788ab}{%
+           family={Kacelnik},
+           familyi={K\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fa794ba2019f47632a3ce5d7c0703c99}
+      \strng{fullhash}{6388f8cc2b0606fc01c65b4035ae3d5a}
+      \strng{bibnamehash}{6388f8cc2b0606fc01c65b4035ae3d5a}
+      \strng{authorbibnamehash}{6388f8cc2b0606fc01c65b4035ae3d5a}
+      \strng{authornamehash}{fa794ba2019f47632a3ce5d7c0703c99}
+      \strng{authorfullhash}{6388f8cc2b0606fc01c65b4035ae3d5a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Innovative tool manufacture is rare and hard to isolate in animals. We show that an Indonesian generalist parrot, the Goffin's cockatoo, can flexibly and spontaneously transfer the manufacture of stick-type tools across three different materials. Each material required different manipulation patterns, including substrates that required active sculpting for achieving a functional, elongated shape.}
+      \field{issue}{11}
+      \field{journaltitle}{Biology Letters}
+      \field{title}{Goffin's cockatoos make the same tool type from different materials}
+      \field{volume}{12}
+      \field{year}{2016}
+      \field{pages}{20160689}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1098/rsbl.2016.0689
+      \endverb
+      \verb{urlraw}
+      \verb https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2016.0689
+      \endverb
+      \verb{url}
+      \verb https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2016.0689
+      \endverb
+    \endentry
+    \entry{Bond_2003}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6704d4f60929e701500de6cc0953f249}{%
+           family={Bond},
+           familyi={B\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c7d7fd67df8cfde85767396ff536e24}{%
+           family={Kamil},
+           familyi={K\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57517f1736d1f103718575a260eb0110}{%
+           family={Balda},
+           familyi={B\bibinitperiod},
+           given={Russell},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9503bae50fd0d5fb1f4408f7af368dfc}
+      \strng{fullhash}{0ff32288119257daf8c20513b33d36e9}
+      \strng{bibnamehash}{0ff32288119257daf8c20513b33d36e9}
+      \strng{authorbibnamehash}{0ff32288119257daf8c20513b33d36e9}
+      \strng{authornamehash}{9503bae50fd0d5fb1f4408f7af368dfc}
+      \strng{authorfullhash}{0ff32288119257daf8c20513b33d36e9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The social complexity hypothesis asserts that animals living in large social groups should display enhanced cognitive abilities along predictable dimensions. To test this concept, we compared highly social pinyon jays,Gymnorhinus cyanocephalus , with relatively nonsocial western scrub-jays, Aphelocoma californica, on two complex cognitive tasks relevant to the ability to track and assess social relationships. Pinyon jays learned to track multiple dyadic relationships more rapidly and more accurately than scrub-jays and appeared to display a more robust and accurate mechanism of transitive inference. These results provide a clear demonstration of the association between social complexity and cognition in animals. Copyright 2003 Published by Elsevier Science Ltd on behalf of The Association for the Study of Animal Behaviour.}
+      \field{journaltitle}{Animal Behaviour}
+      \field{month}{3}
+      \field{title}{Social Complexity and Transitive Inference in Corvids}
+      \field{volume}{65}
+      \field{year}{2003}
+      \field{pages}{479\bibrangedash 487}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1006/anbe.2003.2101
+      \endverb
+    \endentry
+    \entry{Call_2008}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=beea02e5d390b1a77f1d8cd065bd77af}{%
+           family={Call},
+           familyi={C\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77ba606992793299baec3aba2126873e}{%
+           family={Tomasello},
+           familyi={T\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9d7234a59c4f221b044090fbbfe55a90}
+      \strng{fullhash}{9d7234a59c4f221b044090fbbfe55a90}
+      \strng{bibnamehash}{9d7234a59c4f221b044090fbbfe55a90}
+      \strng{authorbibnamehash}{9d7234a59c4f221b044090fbbfe55a90}
+      \strng{authornamehash}{9d7234a59c4f221b044090fbbfe55a90}
+      \strng{authorfullhash}{9d7234a59c4f221b044090fbbfe55a90}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{On the 30th anniversary of Premack and Woodruff's seminal paper asking whether chimpanzees have a theory of mind, we review recent evidence that suggests in many respects they do, whereas in other respects they might not. Specifically, there is solid evidence from several different experimental paradigms that chimpanzees understand the goals and intentions of others, as well as the perception and knowledge of others. Nevertheless, despite several seemingly valid attempts, there is currently no evidence that chimpanzees understand false beliefs. Our conclusion for the moment is, thus, that chimpanzees understand others in terms of a perception-goal psychology, as opposed to a full-fledged, human-like belief-desire psychology. © 2008 Elsevier Ltd. All rights reserved.}
+      \field{issn}{13646613}
+      \field{issue}{5}
+      \field{journaltitle}{Trends in Cognitive Sciences}
+      \field{month}{5}
+      \field{title}{Does the chimpanzee have a theory of mind? 30 years later}
+      \field{volume}{12}
+      \field{year}{2008}
+      \field{pages}{187\bibrangedash 192}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.tics.2008.02.010
+      \endverb
+    \endentry
+    \entry{Clayton_1998}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=97f09666394cdaaa0f1cb5491d815fa8}{%
+           family={Clayton},
+           familyi={C\bibinitperiod},
+           given={Nicola\bibnamedelima S},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7686f77a33a42f8199a0fcbb70290d8}{%
+           family={Dickinson},
+           familyi={D\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7fcd4402f2c09d85b7e63e17e3629244}
+      \strng{fullhash}{7fcd4402f2c09d85b7e63e17e3629244}
+      \strng{bibnamehash}{7fcd4402f2c09d85b7e63e17e3629244}
+      \strng{authorbibnamehash}{7fcd4402f2c09d85b7e63e17e3629244}
+      \strng{authornamehash}{7fcd4402f2c09d85b7e63e17e3629244}
+      \strng{authorfullhash}{7fcd4402f2c09d85b7e63e17e3629244}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The recollection of past experiences allows us to recall what a particular event was, and where and when it occurred1,2, a form of memory that is thought to be unique to humans3. It is known, however, that food-storing birds remember the spatial location4,5,6 and contents6,7,8,9 of their caches. Furthermore, food-storing animals adapt their caching and recovery strategies to the perishability of food stores10,11,12,13, which suggests that they are sensitive to temporal factors. Here we show that scrub jays (Aphelocoma coerulescens) remember ‘when’ food items are stored by allowing them to recover perishable ‘wax worms’ (wax-moth larvae) and non-perishable peanuts which they had previously cached in visuospatially distinct sites. Jays searched preferentially for fresh wax worms, their favoured food, when allowed to recover them shortly after caching. However, they rapidly learned to avoid searching for worms after a longer interval during which the worms had decayed. The recovery preference of jays demonstrates memory of where and when particular food items were cached, thereby fulfilling the behavioural criteria for episodic-like memory in non-human animals.}
+      \field{issn}{1476-4687}
+      \field{issue}{6699}
+      \field{journaltitle}{Nature}
+      \field{title}{Episodic-like memory during cache recovery by scrub jays}
+      \field{volume}{395}
+      \field{year}{1998}
+      \field{pages}{272\bibrangedash 274}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1038/26216
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/26216
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/26216
+      \endverb
+    \endentry
+    \entry{Dong_2023}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=26d6780e380fae402d627e7aa3a59ca7}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Shihao},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0acdeee7f1966934420a4c220d188ee9}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd02408afcd4ca0c9ff72a3901cac6e9}{%
+           family={Nieh},
+           familyi={N\bibinitperiod},
+           given={James\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8a01a0b159e5bec0c7e235717206e21}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{67b104f0d383f12e6ee885536b308a41}
+      \strng{fullhash}{36c8c4b3f7482c97ac9e7b7e9bb6e35b}
+      \strng{bibnamehash}{36c8c4b3f7482c97ac9e7b7e9bb6e35b}
+      \strng{authorbibnamehash}{36c8c4b3f7482c97ac9e7b7e9bb6e35b}
+      \strng{authornamehash}{67b104f0d383f12e6ee885536b308a41}
+      \strng{authorfullhash}{36c8c4b3f7482c97ac9e7b7e9bb6e35b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Honey bees use a complex form of spatial referential communication. Their “waggle dance” communicates the direction, distance, and quality of a resource to nestmates by encoding celestial cues, retinal optic flow, and relative food value into motion and sound within the nest. We show that correct waggle dancing requires social learning. Bees without the opportunity to follow any dances before they first danced produced significantly more disordered dances with larger waggle angle divergence errors and encoded distance incorrectly. The former deficit improved with experience, but distance encoding was set for life. The first dances of bees that could follow other dancers showed neither impairment. Social learning, therefore, shapes honey bee signaling, as it does communication in human infants, birds, and multiple other vertebrate species. The honeybee waggle dance has long been recognized as a behavior that communicates information about resource location from a foraging worker to her nest mates. Dong et al. show that this complex dance is in part learned by young bees as they observe more experienced bees (see the Perspective by Chittka and Rossi). Specifically, bees that were not exposed to the dances of their older counterparts displayed more angle and distance errors than those that had a “tutor.” Although experience increased angle and direction accuracy, untutored bees were never able to recover accurate distance coding. Thus, as with birds, humans, and other social learning species, honeybees benefit from observing others of their kind that have experience. —SNV Honey bees use social signal learning to improve their ability to waggle dance, a complex example of nonhuman spatial referential communication.}
+      \field{issue}{6636}
+      \field{journaltitle}{Science}
+      \field{title}{Social signal learning of the waggle dance in honey bees}
+      \field{volume}{379}
+      \field{year}{2023}
+      \field{pages}{1015\bibrangedash 1018}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.ade1702
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.ade1702
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.ade1702
+      \endverb
+    \endentry
+    \entry{Doolittle_2014}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=64297b172a379cb5f56646caa960214a}{%
+           family={Doolittle},
+           familyi={D\bibinitperiod},
+           given={Emily\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5066d1d7c979920e0794ab4780ac86b}{%
+           family={Gingras},
+           familyi={G\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=942c12a691016f82b1677692c08fc93b}{%
+           family={Endres},
+           familyi={E\bibinitperiod},
+           given={Dominik\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7151d3a466879ea9b51109e4250b70a0}{%
+           family={Fitch},
+           familyi={F\bibinitperiod},
+           given={W.\bibnamedelimi T.},
+           giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {National Academy of Sciences}%
+      }
+      \strng{namehash}{b7c9121e3df6c8221350db52cebbb2f6}
+      \strng{fullhash}{e52e7269ff340640c893f4e190997ece}
+      \strng{bibnamehash}{e52e7269ff340640c893f4e190997ece}
+      \strng{authorbibnamehash}{e52e7269ff340640c893f4e190997ece}
+      \strng{authornamehash}{b7c9121e3df6c8221350db52cebbb2f6}
+      \strng{authorfullhash}{e52e7269ff340640c893f4e190997ece}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Many human musical scales, including the diatonic major scale prevalent in Western music, are built partially or entirely from intervals (ratios between adjacent frequencies) corresponding to small-integer proportions drawn from the harmonic series. Scientists have long debated the extent to which principles of scale generation in human music are biologically or culturally determined. Data from animal "song" may provide new insights into this discussion. Here, by examining pitch relationships using both a simple linear regression model and a Bayesian generative model, we show that most songs of the hermit thrush (Catharus guttatus) favor simple frequency ratios derived from the harmonic (or overtone) series. Furthermore, we show that this frequency selection results not from physical constraints governing peripheral production mechanisms but from active selection at a central level. These data provide the most rigorous empirical evidence to date of a bird song that makes use of the same mathematical principles that underlie Western and many non-Western musical scales, demonstrating surprising convergence between human and animal "song cultures." Although there is no evidence that the songs of most bird species follow the overtone series, our findings add to a small but growing body of research showing that a preference for small-integer frequency ratios is not unique to humans. These findings thus have important implications for current debates about the origins of human musical systems and may call for a reevaluation of existing theories of musical consonance based on specific human vocal characteristics.}
+      \field{issn}{10916490}
+      \field{issue}{46}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{month}{11}
+      \field{title}{Overtone-based pitch selection in hermit thrush song: Unexpected convergence with scale construction in human music}
+      \field{volume}{111}
+      \field{year}{2014}
+      \field{pages}{16616\bibrangedash 16621}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.1406023111
+      \endverb
+    \endentry
+    \entry{Giurfa_2022}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=2065d03d0c68d7864c6de08cf580308a}{%
+           family={Giurfa},
+           familyi={G\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fba5503a3f1b63182347f9ece286d18e}{%
+           family={Marcout},
+           familyi={M\bibinitperiod},
+           given={Claire},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f1c9ec4fbc6f0c157ba09b58c4d4fc9}{%
+           family={Hilpert},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=957677eca958fe51d656860ae1940378}{%
+           family={Thevenot},
+           familyi={T\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0673663b8b3b1f0ab0d465c2a0baa0a6}{%
+           family={Rugani},
+           familyi={R\bibinitperiod},
+           given={Rosa},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3846167e08de6e814fd3a1bc7a686bfe}
+      \strng{fullhash}{fc1a5a3c48eb0bd3b8d2da2ab87b2ac6}
+      \strng{bibnamehash}{fc1a5a3c48eb0bd3b8d2da2ab87b2ac6}
+      \strng{authorbibnamehash}{fc1a5a3c48eb0bd3b8d2da2ab87b2ac6}
+      \strng{authornamehash}{3846167e08de6e814fd3a1bc7a686bfe}
+      \strng{authorfullhash}{fc1a5a3c48eb0bd3b8d2da2ab87b2ac6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The “mental number line” (MNL) is a form of spatial numeric representation that associates small and large numbers with the left and right spaces, respectively. This spatio-numeric organization can be found in adult humans and has been related to cultural factors such as writing and reading habits. Yet, both human newborns and birds order numbers consistently with an MNL, thus raising the question of whether culture is a main explanation for MNL. Here, we explored the numeric sense of honey bees and show that after being trained to associate numbers with a sucrose reward, they order numbers not previously experienced from left to right according to their magnitude. Importantly, the location of a number on that scale varies with the reference number previously trained and does not depend on low-level cues present on numeric stimuli. We provide a series of neural explanations for this effect based on the extensive knowledge accumulated on the neural underpinnings of visual processing in honey bees and conclude that the MNL is a form of numeric representation that is evolutionarily conserved across nervous systems endowed with a sense of number, irrespective of their neural complexity.}
+      \field{issue}{44}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{title}{An insect brain organizes numbers on a left-to-right mental number line}
+      \field{volume}{119}
+      \field{year}{2022}
+      \field{pages}{e2203584119}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1073/pnas.2203584119
+      \endverb
+      \verb{urlraw}
+      \verb https://www.pnas.org/doi/abs/10.1073/pnas.2203584119
+      \endverb
+      \verb{url}
+      \verb https://www.pnas.org/doi/abs/10.1073/pnas.2203584119
+      \endverb
+    \endentry
+    \entry{Degregorio_2021}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=fae9b751d89b8510da99681d37fadc41}{%
+           family={Gregorio},
+           familyi={G\bibinitperiod},
+           given={Chiara\bibnamedelima De},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=580b612368393d4c68dfd4d9af4ade54}{%
+           family={Valente},
+           familyi={V\bibinitperiod},
+           given={Daria},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc6cc52b6ebc2d643835fd91a218f026}{%
+           family={Raimondi},
+           familyi={R\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d22faee60139767a1fd28de4f1249242}{%
+           family={Torti},
+           familyi={T\bibinitperiod},
+           given={Valeria},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e04cc8eada89b963b6d2539f78039096}{%
+           family={Miaretsoa},
+           familyi={M\bibinitperiod},
+           given={Longondraza},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72844f20a834fd8731bbf9717bca6089}{%
+           family={Friard},
+           familyi={F\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9504948ee96087e103f280634bad036c}{%
+           family={Giacoma},
+           familyi={G\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc33d4c89dedff9d403a16c15ce071be}{%
+           family={Ravignani},
+           familyi={R\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=898718977300fb3ebc1776b7b8a39447}{%
+           family={Gamba},
+           familyi={G\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cell Press}%
+      }
+      \strng{namehash}{cc4d27ff8c1d90966e2f412d6668c4db}
+      \strng{fullhash}{36fc20e5d1e80c3a727f22d6c60c2aaf}
+      \strng{bibnamehash}{36fc20e5d1e80c3a727f22d6c60c2aaf}
+      \strng{authorbibnamehash}{36fc20e5d1e80c3a727f22d6c60c2aaf}
+      \strng{authornamehash}{cc4d27ff8c1d90966e2f412d6668c4db}
+      \strng{authorfullhash}{36fc20e5d1e80c3a727f22d6c60c2aaf}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{What are the origins of musical rhythm? One approach to the biology and evolution of music consists in finding common musical traits across species. These similarities allow biomusicologists to infer when and how musical traits appeared in our species1. A parallel approach to the biology and evolution of music focuses on finding statistical universals in human music2. These include rhythmic features that appear above chance across musical cultures. One such universal is the production of categorical rhythms3, defined as those where temporal intervals between note onsets are distributed categorically rather than uniformly2,4,5. Prominent rhythm categories include those with intervals related by small integer ratios, such as 1:1 (isochrony) and 1:2, which translates as some notes being twice as long as their adjacent ones. In humans, universals are often defined in relation to the beat, a top-down cognitive process of inferring a temporal regularity from a complex musical scene1. Without assuming the presence of the beat in other animals, one can still investigate its downstream products, namely rhythmic categories with small integer ratios detected in recorded signals. Here we combine the comparative and statistical universals approaches, testing the hypothesis that rhythmic categories and small integer ratios should appear in species showing coordinated group singing3. We find that a lemur species displays, in its coordinated songs, the isochronous and 1:2 rhythm categories seen in human music, showing that such categories are not, among mammals, unique to humans3.}
+      \field{issn}{18790445}
+      \field{issue}{20}
+      \field{journaltitle}{Current Biology}
+      \field{month}{10}
+      \field{title}{Categorical rhythms in a singing primate}
+      \field{volume}{31}
+      \field{year}{2021}
+      \field{pages}{R1379\bibrangedash R1380}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.cub.2021.09.032
+      \endverb
+    \endentry
+    \entry{Gross_2009}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=da87d098bd8ee6237f335a0981677a75}{%
+           family={Gross},
+           familyi={G\bibinitperiod},
+           given={Hans\bibnamedelima J.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bddff52299e8730bebcde77928f1c920}{%
+           family={Pahl},
+           familyi={P\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e00554f0e8b3a8e24dff7ef27170fe40}{%
+           family={Si},
+           familyi={S\bibinitperiod},
+           given={Aung},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50f10f09174d83ca7fae4d7d22fb5495}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a355c1d371474909ea3fbd7fd364b2a}{%
+           family={Tautz},
+           familyi={T\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d35ddcdca5feee5b605d5bb2ee65d1e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Shaowu},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{1087c455ba45b9cdb3e5ce03a730bc2e}
+      \strng{fullhash}{c6643b04b43e0e31ba329484fa3eb9c6}
+      \strng{bibnamehash}{c6643b04b43e0e31ba329484fa3eb9c6}
+      \strng{authorbibnamehash}{c6643b04b43e0e31ba329484fa3eb9c6}
+      \strng{authornamehash}{1087c455ba45b9cdb3e5ce03a730bc2e}
+      \strng{authorfullhash}{c6643b04b43e0e31ba329484fa3eb9c6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although the numerical abilities of many vertebrate species have been investigated in the scientific literature, there are few convincing accounts of invertebrate numerical competence. Honeybees, Apis mellifera, by virtue of their other impressive cognitive feats, are a prime candidate for investigations of this nature. We therefore used the well-established delayed match-to-sample paradigm, to test the limits of honeybees' ability to match two visual patterns solely on the basis of the shared number of elements in the two patterns. Using a y-maze, we found that bees can not only differentiate between patterns containing two and three elements, but can also use this prior knowledge to differentiate three from four, without any additional training. However, bees trained on the two versus three task could not distinguish between higher numbers, such as four versus five, four versus six, or five versus six. Control experiments confirmed that the bees were not using cues such as the colour of the exact configuration of the visual elements, the combined area or edge length of the elements, or illusory contours formed by the elements. To our knowledge, this is the first report of number-based visual generalisation by an invertebrate.}
+      \field{issue}{1}
+      \field{journaltitle}{PLOS ONE}
+      \field{month}{5}
+      \field{title}{Number-Based Visual Generalisation in the Honeybee}
+      \field{volume}{4}
+      \field{year}{2009}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0004263
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1371/journal.pone.0004263
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1371/journal.pone.0004263
+      \endverb
+    \endentry
+    \entry{Here_2002}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2ed82796e17f8db73597351a01135b40}{%
+           family={Hare},
+           familyi={H\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78d21b7a6487d9a6ed2133b1d3849bba}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8732b2044368f4a81127df47a6b7003e}{%
+           family={Williamson},
+           familyi={W\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77ba606992793299baec3aba2126873e}{%
+           family={Tomasello},
+           familyi={T\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d9faa3951a1cc8890477c5d120e91e36}
+      \strng{fullhash}{e433b46d9e58dd430f1e59f21bfbbe0c}
+      \strng{bibnamehash}{e433b46d9e58dd430f1e59f21bfbbe0c}
+      \strng{authorbibnamehash}{e433b46d9e58dd430f1e59f21bfbbe0c}
+      \strng{authornamehash}{d9faa3951a1cc8890477c5d120e91e36}
+      \strng{authorfullhash}{e433b46d9e58dd430f1e59f21bfbbe0c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dogs are more skillful than great apes at a number of tasks in which they must read human communicative signals indicating the location of hidden food. In this study, we found that wolves who were raised by humans do not show these same skills, whereas domestic dog puppies only a few weeks old, even those that have had little human contact, do show these skills. These findings suggest that during the process of domestication, dogs have been selected for a set of social-cognitive abilities that enable them to communicate with humans in unique ways.}
+      \field{issue}{5598}
+      \field{journaltitle}{Science}
+      \field{title}{The Domestication of Social Cognition in Dogs}
+      \field{volume}{298}
+      \field{year}{2002}
+      \field{pages}{1634\bibrangedash 1636}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.1072702
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.1072702
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.1072702
+      \endverb
+    \endentry
+    \entry{Hauser_2000}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0e41f44b5bca72f1aed2becd6a5d3429}{%
+           family={Hauser},
+           familyi={H\bibinitperiod},
+           given={M\bibnamedelima D},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ad38b1a472d09cc506066fcbaec11e3}{%
+           family={Carey},
+           familyi={C\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1a2cbfaa4ebded7f65fa41c93f30ab0}{%
+           family={Hauser},
+           familyi={H\bibinitperiod},
+           given={L\bibnamedelima B},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{005f1f6bef9bf8fe146938ca9613f61d}
+      \strng{fullhash}{b34ddf27233133caf2ee787873dd57cc}
+      \strng{bibnamehash}{b34ddf27233133caf2ee787873dd57cc}
+      \strng{authorbibnamehash}{b34ddf27233133caf2ee787873dd57cc}
+      \strng{authornamehash}{005f1f6bef9bf8fe146938ca9613f61d}
+      \strng{authorfullhash}{b34ddf27233133caf2ee787873dd57cc}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Previous research has shown that animals possess considerable numerical abilities. However, this work was based on experiments involving extensive training, a small number of captive subjects and relatively artificial testing procedures. We present the results of experiments on over 200 semi-free-ranging rhesus monkeys using a task which involves no training and mimics a natural foraging problem. The subjects observed two experimenters place pieces of apple, one at a time, into each of two opaque containers. The experimenters then walked away so that the subjects could approach. The monkeys chose the container with the greater number of apple slices when the comparisons were one versus two, two versus three, three versus four and three versus five slices. They failed at four versus five, four versus six, four versus eight and three versus eight slices. Controls established that it was the representation of number which underlay their successful choices rather than the amount of time spent placing apple pieces into the box or the volume of apple placed in the box. The failures at values greater than three slices stand in striking contrast to other animal studies where training was involved and in which far superior numerical abilities were demonstrated. The range of success achieved by rhesus monkeys in this spontaneous-number task matches the range achieved by human infants and corresponds to the range encoded in the syntax of natural languages.}
+      \field{issue}{1445}
+      \field{journaltitle}{Proc Biol Sci}
+      \field{month}{4}
+      \field{title}{Spontaneous number representation in semi-free-ranging rhesus monkeys}
+      \field{volume}{267}
+      \field{year}{2000}
+      \field{pages}{829\bibrangedash 833}
+      \range{pages}{5}
+    \endentry
+    \entry{Howard_2018}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=05e8dcf2eaa1238a2aed1d3c4b0af2bd}{%
+           family={Howard},
+           familyi={H\bibinitperiod},
+           given={Scarlett\bibnamedelima R},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8d0023b1e838783e8d37c9018a67683}{%
+           family={Avarguès-Weber},
+           familyi={A\bibinithyphendelim W\bibinitperiod},
+           given={Aurore},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52d7892db27f1e1cbcb5641e87a5180d}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={Jair\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46e93e3354e043bb141116f04bf4accb}{%
+           family={Greentree},
+           familyi={G\bibinitperiod},
+           given={Andrew\bibnamedelima D},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d50ebcdc60c27e9a073f8d0ef5a4fdd4}{%
+           family={Dyer},
+           familyi={D\bibinitperiod},
+           given={Adrian\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{25c9e947821c1d016a74c788087a7753}
+      \strng{fullhash}{c799fe862d6f45f48ddb8b1ace084038}
+      \strng{bibnamehash}{c799fe862d6f45f48ddb8b1ace084038}
+      \strng{authorbibnamehash}{c799fe862d6f45f48ddb8b1ace084038}
+      \strng{authornamehash}{25c9e947821c1d016a74c788087a7753}
+      \strng{authorfullhash}{c799fe862d6f45f48ddb8b1ace084038}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It has been said that the development of an understanding of zero by society initiated a major intellectual advance in humans, and we have been thought to be unique in this understanding. Although recent research has shown that some other vertebrates understand the concept of the “empty set,” Howard et al. now show that an understanding of this concept is present in untrained honey bees (see the Perspective by Nieder). This finding suggests that such an understanding has evolved independently in distantly related species that deal with complexity in their environments, and that it may be more widespread than previously appreciated. Science, this issue p. 1124; see also p. 1069 Honey bees display an understanding that zero is an empty set at the base of the number line. Some vertebrates demonstrate complex numerosity concepts—including addition, sequential ordering of numbers, or even the concept of zero—but whether an insect can develop an understanding for such concepts remains unknown. We trained individual honey bees to the numerical concepts of “greater than” or “less than” using stimuli containing one to six elemental features. Bees could subsequently extrapolate the concept of less than to order zero numerosity at the lower end of the numerical continuum. Bees demonstrated an understanding that parallels animals such as the African grey parrot, nonhuman primates, and even preschool children.}
+      \field{issue}{6393}
+      \field{journaltitle}{Science}
+      \field{title}{Numerical ordering of zero in honey bees}
+      \field{volume}{360}
+      \field{year}{2018}
+      \field{pages}{1124\bibrangedash 1126}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.aar4975
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.aar4975
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.aar4975
+      \endverb
+    \endentry
+    \entry{Kaminski_2019}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=71707ac92e87255d378613510cbf3a12}{%
+           family={Kaminski},
+           familyi={K\bibinitperiod},
+           given={Juliane},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08eaec797b01ecefe46d964e9fb3d3e6}{%
+           family={Waller},
+           familyi={W\bibinitperiod},
+           given={Bridget\bibnamedelima M},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec7c491507b8aee59ba98a8a5111df71}{%
+           family={Diogo},
+           familyi={D\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ffd5a2754420462bd298c22e20fbb78}{%
+           family={Hartstone-Rose},
+           familyi={H\bibinithyphendelim R\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0df6cfac9d2601d4edc79044673e00c4}{%
+           family={Burrows},
+           familyi={B\bibinitperiod},
+           given={Anne\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{54e200e119d019ef518ecd391e3bda3b}
+      \strng{fullhash}{2593fcde31109f86d4001ce42ace9312}
+      \strng{bibnamehash}{2593fcde31109f86d4001ce42ace9312}
+      \strng{authorbibnamehash}{2593fcde31109f86d4001ce42ace9312}
+      \strng{authornamehash}{54e200e119d019ef518ecd391e3bda3b}
+      \strng{authorfullhash}{2593fcde31109f86d4001ce42ace9312}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Domestication shaped wolves into dogs and transformed both their behavior and their anatomy. Here we show that, in only 33,000 y, domestication transformed the facial muscle anatomy of dogs specifically for facial communication with humans. Based on dissections of dog and wolf heads, we show that the levator anguli oculi medialis, a muscle responsible for raising the inner eyebrow intensely, is uniformly present in dogs but not in wolves. Behavioral data, collected from dogs and wolves, show that dogs produce the eyebrow movement significantly more often and with higher intensity than wolves do, with highest-intensity movements produced exclusively by dogs. Interestingly, this movement increases paedomorphism and resembles an expression that humans produce when sad, so its production in dogs may trigger a nurturing response in humans. We hypothesize that dogs with expressive eyebrows had a selection advantage and that “puppy dog eyes” are the result of selection based on humans’ preferences.}
+      \field{issue}{29}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{title}{Evolution of facial muscle anatomy in dogs}
+      \field{volume}{116}
+      \field{year}{2019}
+      \field{pages}{14677\bibrangedash 14681}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1073/pnas.1820653116
+      \endverb
+      \verb{urlraw}
+      \verb https://www.pnas.org/doi/abs/10.1073/pnas.1820653116
+      \endverb
+      \verb{url}
+      \verb https://www.pnas.org/doi/abs/10.1073/pnas.1820653116
+      \endverb
+    \endentry
+    \entry{Martinho_2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e1cfc162261e0094d0033c21fa6fdc9e}{%
+           family={Martinho},
+           familyi={M\bibinitperiod},
+           given={Antone},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=081d5acba9ed73f6f04c73d89eb788ab}{%
+           family={Kacelnik},
+           familyi={K\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f0d5da959fa9094ec2a3b1549decc015}
+      \strng{fullhash}{f0d5da959fa9094ec2a3b1549decc015}
+      \strng{bibnamehash}{f0d5da959fa9094ec2a3b1549decc015}
+      \strng{authorbibnamehash}{f0d5da959fa9094ec2a3b1549decc015}
+      \strng{authornamehash}{f0d5da959fa9094ec2a3b1549decc015}
+      \strng{authorfullhash}{f0d5da959fa9094ec2a3b1549decc015}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The ability to identify and retain logical relations between stimuli and apply them to novel stimuli is known as relational concept learning. This has been demonstrated in a few animal species after extensive reinforcement training, and it reveals the brain’s ability to deal with abstract properties. Here we describe relational concept learning in newborn ducklings without reinforced training. Newly hatched domesticated mallards that were briefly exposed to a pair of objects that were either the same or different in shape or color later preferred to follow pairs of new objects exhibiting the imprinted relation. Thus, even in a seemingly rigid and very rapid form of learning such as filial imprinting, the brain operates with abstract conceptual reasoning, a faculty often assumed to be reserved to highly intelligent organisms.}
+      \field{issue}{6296}
+      \field{journaltitle}{Science}
+      \field{title}{Ducklings imprint on the relational concept of “same or different”}
+      \field{volume}{353}
+      \field{year}{2016}
+      \field{pages}{286\bibrangedash 288}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.aaf4247
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.aaf4247
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.aaf4247
+      \endverb
+    \endentry
+    \entry{Mehr_2019}{article}{}
+      \name{author}{19}{}{%
+        {{un=0,uniquepart=base,hash=8011199ace086a8ff1fd2b64e8c90364}{%
+           family={Mehr},
+           familyi={M\bibinitperiod},
+           given={Samuel\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e08f124bc583f0dc1f861a67fe6d38cc}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Manvir},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32971f266f3d68d26dd36de9238a793e}{%
+           family={Knox},
+           familyi={K\bibinitperiod},
+           given={Dean},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81c664908494301fe77b326fb3c6ba5d}{%
+           family={Ketter},
+           familyi={K\bibinitperiod},
+           given={Daniel\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de8f71ca12e1e39a435cbeb7df48af7f}{%
+           family={Pickens-Jones},
+           familyi={P\bibinithyphendelim J\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=405a6463411cf3d8e69b18eb8bc6ff0f}{%
+           family={Atwood},
+           familyi={A\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3995dda0933bb03d997dfe71bb50dea0}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c7777fd4abb57030b9112f7304e0cd8}{%
+           family={Jacoby},
+           familyi={J\bibinitperiod},
+           given={Nori},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=510f21de32fd70f879c364d570f4d0e2}{%
+           family={Egner},
+           familyi={E\bibinitperiod},
+           given={Alena\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9649aad4af2eed320b29b6fc2b80a0d8}{%
+           family={Hopkins},
+           familyi={H\bibinitperiod},
+           given={Erin\bibnamedelima J},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a899fcc870ecb0dc696f08ce834f8603}{%
+           family={Howard},
+           familyi={H\bibinitperiod},
+           given={Rhea\bibnamedelima M},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=798fec119470953434a0b8628656817a}{%
+           family={Hartshorne},
+           familyi={H\bibinitperiod},
+           given={Joshua\bibnamedelima K},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=616f86b5f58389ced0e8c8d65cfdcbc5}{%
+           family={Jennings},
+           familyi={J\bibinitperiod},
+           given={Mariela\bibnamedelima V},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2bd8614a3288e306b7f373883b47faab}{%
+           family={Simson},
+           familyi={S\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71e8192ae7fb60b3acd7778da034a8ab}{%
+           family={Bainbridge},
+           familyi={B\bibinitperiod},
+           given={Constance\bibnamedelima M},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=026a9bbaeb03e57886733eb6c1f1be1c}{%
+           family={Pinker},
+           familyi={P\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd789a42084bf12a4a54033bf93069a4}{%
+           family={O’Donnell},
+           familyi={O\bibinitperiod},
+           given={Timothy\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89aac1e1ef9a2f45deef773919bc097e}{%
+           family={Krasnow},
+           familyi={K\bibinitperiod},
+           given={Max\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a2c51bc1eaa04b841e5a3baf626a77e}{%
+           family={Glowacki},
+           familyi={G\bibinitperiod},
+           given={Luke},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7efb43505b5642adb1877ef486e59b0a}
+      \strng{fullhash}{75ad0fc12957895fdc340b637763623e}
+      \strng{bibnamehash}{75ad0fc12957895fdc340b637763623e}
+      \strng{authorbibnamehash}{75ad0fc12957895fdc340b637763623e}
+      \strng{authornamehash}{7efb43505b5642adb1877ef486e59b0a}
+      \strng{authorfullhash}{75ad0fc12957895fdc340b637763623e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It is unclear whether there are universal patterns to music across cultures. Mehr et al. examined ethnographic data and observed music in every society sampled (see the Perspective by Fitch and Popescu). For songs specifically, three dimensions characterize more than 25\% of the performances studied: formality of the performance, arousal level, and religiosity. There is more variation in musical behavior within societies than between societies, and societies show similar levels of within-society variation in musical behavior. At the same time, one-third of societies significantly differ from average for any given dimension, and half of all societies differ from average on at least one dimension, indicating variability across cultures. Science, this issue p. eaax0868; see also p. 944 Songs exhibit universal patterns across cultures. What is universal about music, and what varies? We built a corpus of ethnographic text on musical behavior from a representative sample of the world’s societies, as well as a discography of audio recordings. The ethnographic corpus reveals that music (including songs with words) appears in every society observed; that music varies along three dimensions (formality, arousal, religiosity), more within societies than across them; and that music is associated with certain behavioral contexts such as infant care, healing, dance, and love. The discography—analyzed through machine summaries, amateur and expert listener ratings, and manual transcriptions—reveals that acoustic features of songs predict their primary behavioral context; that tonality is widespread, perhaps universal; that music varies in rhythmic and melodic complexity; and that elements of melodies and rhythms found worldwide follow power laws.}
+      \field{issue}{6468}
+      \field{journaltitle}{Science}
+      \field{title}{Universality and diversity in human song}
+      \field{volume}{366}
+      \field{year}{2019}
+      \field{pages}{eaax0868}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1126/science.aax0868
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.aax0868
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.aax0868
+      \endverb
+    \endentry
+    \entry{Nagasawa_2015}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=86ded21c53a56dc07b9ed496498afe3e}{%
+           family={Nagasawa},
+           familyi={N\bibinitperiod},
+           given={Miho},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2bb0222339cd17eec41728069f4d1bfe}{%
+           family={Mitsui},
+           familyi={M\bibinitperiod},
+           given={Shouhei},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ba8de2f7a9e36694e28dc3dbc71d467}{%
+           family={En},
+           familyi={E\bibinitperiod},
+           given={Shiori},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70fa1c58aac24f61ff8cf37cc5215d5f}{%
+           family={Ohtani},
+           familyi={O\bibinitperiod},
+           given={Nobuyo},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=681915fc7de47c54f2e205382c680c8f}{%
+           family={Ohta},
+           familyi={O\bibinitperiod},
+           given={Mitsuaki},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41bb0449bd3fb2a80c5bf142c0d47161}{%
+           family={Sakuma},
+           familyi={S\bibinitperiod},
+           given={Yasuo},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a5058d4158c85fbbd6c54f466a489ce}{%
+           family={Onaka},
+           familyi={O\bibinitperiod},
+           given={Tatsushi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69319ff533352c3f37b13d91b1c47a08}{%
+           family={Mogi},
+           familyi={M\bibinitperiod},
+           given={Kazutaka},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ccc069bc442b712735c917a8f123557}{%
+           family={Kikusui},
+           familyi={K\bibinitperiod},
+           given={Takefumi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4158d3abf1bc42c14e02d4908b7c84e9}
+      \strng{fullhash}{b2fdc38f393825a37c1a3afd35a2020b}
+      \strng{bibnamehash}{b2fdc38f393825a37c1a3afd35a2020b}
+      \strng{authorbibnamehash}{b2fdc38f393825a37c1a3afd35a2020b}
+      \strng{authornamehash}{4158d3abf1bc42c14e02d4908b7c84e9}
+      \strng{authorfullhash}{b2fdc38f393825a37c1a3afd35a2020b}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Humans bond emotionally as we gaze into each other's eyes—a process mediated by the hormone oxytocin. Nagasawa et al. show that such gaze-mediated bonding also exists between us and our closest animal companions, dogs (see the Perspective by MacLean and Hare). They found that mutual gazing increased oxytocin levels, and sniffing oxytocin increased gazing in dogs, an effect that transferred to their owners. Wolves, who rarely engage in eye contact with their human handlers, seem resistant to this effect. Science, this issue p. 333; see also p. 280 The human-dog bond is facilitated by the interaction of oxytocin feedback loops that emerged over the course of domestication. [Also see Perspective by MacLean and Hare] Human-like modes of communication, including mutual gaze, in dogs may have been acquired during domestication with humans. We show that gazing behavior from dogs, but not wolves, increased urinary oxytocin concentrations in owners, which consequently facilitated owners’ affiliation and increased oxytocin concentration in dogs. Further, nasally administered oxytocin increased gazing behavior in dogs, which in turn increased urinary oxytocin concentrations in owners. These findings support the existence of an interspecies oxytocin-mediated positive loop facilitated and modulated by gazing, which may have supported the coevolution of human-dog bonding by engaging common modes of communicating social attachment.}
+      \field{issue}{6232}
+      \field{journaltitle}{Science}
+      \field{title}{Oxytocin-gaze positive loop and the coevolution of human-dog bonds}
+      \field{volume}{348}
+      \field{year}{2015}
+      \field{pages}{333\bibrangedash 336}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1261022
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.1261022
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.1261022
+      \endverb
+    \endentry
+    \entry{Pena_2003}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=884ec5e2575f3635ab5a083d34ac8e9b}{%
+           family={Peña},
+           familyi={P\bibinitperiod},
+           given={Marcela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cd7ccd74208e03771a8467db47d7279}{%
+           family={Maki},
+           familyi={M\bibinitperiod},
+           given={Atsushi},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=180076227253d74a8cb34f8afd210466}{%
+           family={Kovac̆ić},
+           familyi={K\bibinitperiod},
+           given={Damir},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0bae3bb27099d92d18b80ad8452386d}{%
+           family={Dehaene-Lambertz},
+           familyi={D\bibinithyphendelim L\bibinitperiod},
+           given={Ghislaine},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10a4414f4aa693d09a7fc78b34e04a4c}{%
+           family={Koizumi},
+           familyi={K\bibinitperiod},
+           given={Hideaki},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0c5e53e700adc0637e9fbd54b585725}{%
+           family={Bouquet},
+           familyi={B\bibinitperiod},
+           given={Furio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2db544a969f488fa2ccd883d9724cb88}{%
+           family={Mehler},
+           familyi={M\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{47de2982a72fceaf6bc92d4804577f4a}
+      \strng{fullhash}{27de3a795593c00da3d53d8c902b2d5f}
+      \strng{bibnamehash}{27de3a795593c00da3d53d8c902b2d5f}
+      \strng{authorbibnamehash}{27de3a795593c00da3d53d8c902b2d5f}
+      \strng{authornamehash}{47de2982a72fceaf6bc92d4804577f4a}
+      \strng{authorfullhash}{27de3a795593c00da3d53d8c902b2d5f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Does the neonate's brain have left hemisphere (LH) dominance for speech? Twelve full-term neonates participated in an optical topography study designed to assess whether the neonate brain responds specifically to linguistic stimuli. Participants were tested with normal infant-directed speech, with the same utterances played in reverse and without auditory stimulation. We used a 24-channel optical topography device to assess changes in the concentration of total hemoglobin in response to auditory stimulation in 12 areas of the right hemisphere and 12 areas of the LH. We found that LH temporal areas showed significantly more activation when infants were exposed to normal speech than to backward speech or silence. We conclude that neonates are born with an LH superiority to process specific properties of speech.}
+      \field{issue}{20}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{title}{Sounds and silence: An optical topography study of language recognition at birth}
+      \field{volume}{100}
+      \field{year}{2003}
+      \field{pages}{11702\bibrangedash 11705}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1073/pnas.1934290100
+      \endverb
+      \verb{urlraw}
+      \verb https://www.pnas.org/doi/abs/10.1073/pnas.1934290100
+      \endverb
+      \verb{url}
+      \verb https://www.pnas.org/doi/abs/10.1073/pnas.1934290100
+      \endverb
+    \endentry
+    \entry{Caroline_2007}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ba9f3e7dae4304e59f82997b98b7aaee}{%
+           family={Raby},
+           familyi={R\bibinitperiod},
+           given={Caroline\bibnamedelima R},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86b478f922c3fc50042fb553231e20c8}{%
+           family={Alexis},
+           familyi={A\bibinitperiod},
+           given={Dean\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7686f77a33a42f8199a0fcbb70290d8}{%
+           family={Dickinson},
+           familyi={D\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97f09666394cdaaa0f1cb5491d815fa8}{%
+           family={Clayton},
+           familyi={C\bibinitperiod},
+           given={Nicola\bibnamedelima S},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2faeba48b68998d1d3d813de1dd662e1}
+      \strng{fullhash}{ad0cd83022e0cf73017b7b9552b770e7}
+      \strng{bibnamehash}{ad0cd83022e0cf73017b7b9552b770e7}
+      \strng{authorbibnamehash}{ad0cd83022e0cf73017b7b9552b770e7}
+      \strng{authornamehash}{2faeba48b68998d1d3d813de1dd662e1}
+      \strng{authorfullhash}{ad0cd83022e0cf73017b7b9552b770e7}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{Planning for the future by western scrub-jays}
+      \field{volume}{445}
+      \field{year}{2007}
+      \field{pages}{919\bibrangedash 921}
+      \range{pages}{3}
+      \verb{urlraw}
+      \verb https://api.semanticscholar.org/CorpusID:4405897
+      \endverb
+      \verb{url}
+      \verb https://api.semanticscholar.org/CorpusID:4405897
+      \endverb
+    \endentry
+    \entry{Rugani_2015}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=0673663b8b3b1f0ab0d465c2a0baa0a6}{%
+           family={Rugani},
+           familyi={R\bibinitperiod},
+           given={Rosa},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1558606154e9f0084a1fa24e99282b36}{%
+           family={Vallortigara},
+           familyi={V\bibinitperiod},
+           given={Giorgio},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7b2fb81bb04f40bdbf533e85ba16459}{%
+           family={Priftis},
+           familyi={P\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb488d54572572cfd177a6b054006c7f}{%
+           family={Regolin},
+           familyi={R\bibinitperiod},
+           given={Lucia},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b145785e75981078046953ca9adab3a8}
+      \strng{fullhash}{3a4b29983c343f4351f50e09d867db9b}
+      \strng{bibnamehash}{3a4b29983c343f4351f50e09d867db9b}
+      \strng{authorbibnamehash}{3a4b29983c343f4351f50e09d867db9b}
+      \strng{authornamehash}{b145785e75981078046953ca9adab3a8}
+      \strng{authorfullhash}{3a4b29983c343f4351f50e09d867db9b}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{For the most part, humans represent numbers across a mental number line, with smaller numbers on the left and larger numbers on the right. Some have argued that this is due to culture rather than being innate. Rugani et al., however, show that 3-day-old chicks share this representation of numbers, consistently seeking lower numbers to the left of a target and larger numbers to the right (see the Perspective by Brugger). These results suggest that there may be an innate spatial representation of numerical values that we share with other animals. Science, this issue p. 534; see also p. 477 Baby chicks also “count” from left to right. [Also see Perspective by Brugger] Humans represent numbers along a mental number line (MNL), where smaller values are located on the left and larger on the right. The origin of the MNL and its connections with cultural experience are unclear: Pre-verbal infants and nonhuman species master a variety of numerical abilities, supporting the existence of evolutionary ancient precursor systems. In our experiments, 3-day-old domestic chicks, once familiarized with a target number (5), spontaneously associated a smaller number (2) with the left space and a larger number (8) with the right space. The same number (8), though, was associated with the left space when the target number was 20. Similarly to humans, chicks associate smaller numbers with the left space and larger numbers with the right space.}
+      \field{issue}{6221}
+      \field{journaltitle}{Science}
+      \field{title}{Number-space mapping in the newborn chick resembles humans’ mental number line}
+      \field{volume}{347}
+      \field{year}{2015}
+      \field{pages}{534\bibrangedash 536}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.aaa1379
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.aaa1379
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.aaa1379
+      \endverb
+    \endentry
+    \entry{Rutz_2016}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6cd24f52d58ab732411d044226504df0}{%
+           family={Rutz},
+           familyi={R\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be60a4c29d27d9ae33ce713031f87777}{%
+           family={Sugasawa},
+           familyi={S\bibinitperiod},
+           given={Shoko},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85d5e273bb91fb1c48a1fa14ca7f518f}{%
+           family={Wal},
+           familyi={W\bibinitperiod},
+           given={Jessica\bibnamedelimb E\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8cec99f11ba8137ad7911f80e27eae5e}{%
+           family={Klump},
+           familyi={K\bibinitperiod},
+           given={Barbara\bibnamedelima C},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ef5b2dec554693cabc03a6761dc1b81}{%
+           family={Clair},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelimb J\bibnamedelimb H\bibnamedelima St},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e98a883ad8c9c94e87783f28371c2e85}
+      \strng{fullhash}{acf32d0646c1bd22232b5ae397fca51e}
+      \strng{bibnamehash}{acf32d0646c1bd22232b5ae397fca51e}
+      \strng{authorbibnamehash}{acf32d0646c1bd22232b5ae397fca51e}
+      \strng{authornamehash}{e98a883ad8c9c94e87783f28371c2e85}
+      \strng{authorfullhash}{acf32d0646c1bd22232b5ae397fca51e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{‘Betty’ the New Caledonian crow astonished the world when she ‘spontaneously’ bent straight pieces of garden wire into hooked foraging tools. Recent field experiments have revealed that tool bending is part of the species' natural behavioural repertoire, providing important context for interpreting Betty's iconic wire-bending feat. More generally, this discovery provides a compelling illustration of how natural history observations can inform laboratory-based research into the cognitive capacities of non-human animals.}
+      \field{issue}{8}
+      \field{journaltitle}{Royal Society Open Science}
+      \field{title}{Tool bending in New Caledonian crows}
+      \field{volume}{3}
+      \field{year}{2016}
+      \field{pages}{160439}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1098/rsos.160439
+      \endverb
+      \verb{urlraw}
+      \verb https://royalsocietypublishing.org/doi/abs/10.1098/rsos.160439
+      \endverb
+      \verb{url}
+      \verb https://royalsocietypublishing.org/doi/abs/10.1098/rsos.160439
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,749 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Blasi_2022}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=43d02974b36aa35cc48eaed58d87146d}{%
+           family={Blasi},
+           familyi={B\bibinitperiod},
+           given={Damián\bibnamedelima E},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=135deb37dc4a16e2d813922bf87fe654}{%
+           family={Henrich},
+           familyi={H\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb22a61c81f132e9d4f6e274b2ca47a3}{%
+           family={Adamou},
+           familyi={A\bibinitperiod},
+           given={Evangelia},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1aaf61365a123b6f46fde21b2c089d7}{%
+           family={Kemmerer},
+           familyi={K\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63601ee6c8398ee421bfca5893d3dc00}{%
+           family={Majid},
+           familyi={M\bibinitperiod},
+           given={Asifa},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{71e98dc083aefc7ad969f4a7f2d985f9}
+      \strng{fullhash}{4d43b3a4f5b3e2ee244620e45590744c}
+      \strng{bibnamehash}{4d43b3a4f5b3e2ee244620e45590744c}
+      \strng{authorbibnamehash}{4d43b3a4f5b3e2ee244620e45590744c}
+      \strng{authornamehash}{71e98dc083aefc7ad969f4a7f2d985f9}
+      \strng{authorfullhash}{4d43b3a4f5b3e2ee244620e45590744c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{English is the dominant language in the study of human cognition and behavior: the individuals studied by cognitive scientists, as well as most of the scientists themselves, are frequently English speakers. However, English differs from other languages in ways that have consequences for the whole of the cognitive sciences, reaching far beyond the study of language itself. Here, we review an emerging body of evidence that highlights how the particular characteristics of English and the linguistic habits of English speakers bias the field by both warping research programs (e.g., overemphasizing features and mechanisms present in English over others) and overgeneralizing observations from English speakers? behaviors, brains, and cognition to our entire species. We propose mitigating strategies that could help avoid some of these pitfalls.}
+      \field{issn}{1364-6613}
+      \field{issue}{12}
+      \field{journaltitle}{Trends in Cognitive Sciences}
+      \field{month}{12}
+      \field{note}{doi: 10.1016/j.tics.2022.09.015}
+      \field{title}{Over-reliance on English hinders cognitive science}
+      \field{volume}{26}
+      \field{year}{2022}
+      \field{pages}{1153\bibrangedash 1170}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.tics.2022.09.015
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.tics.2022.09.015
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.tics.2022.09.015
+      \endverb
+    \endentry
+    \entry{Cibelli_2016}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=719023a6356f26c1a1f88837680fd4ed}{%
+           family={Cibelli},
+           familyi={C\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9eda43a644030ac3eceaf837cb2489ac}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b77ad830e4ec2b481fdfa653d5841d95}{%
+           family={Austerweil},
+           familyi={A\bibinitperiod},
+           given={Joseph\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15f19cfb916ba0b8afb494f250ea80a2}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={Thomas\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0225adbedae10539fd24476b498668b4}{%
+           family={Regier},
+           familyi={R\bibinitperiod},
+           given={Terry},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{1453274f33580d00194abc6c6e16a85c}
+      \strng{fullhash}{b686fcde76610a636dd75f80e03eb562}
+      \strng{bibnamehash}{b686fcde76610a636dd75f80e03eb562}
+      \strng{authorbibnamehash}{b686fcde76610a636dd75f80e03eb562}
+      \strng{authornamehash}{1453274f33580d00194abc6c6e16a85c}
+      \strng{authorfullhash}{b686fcde76610a636dd75f80e03eb562}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Sapir-Whorf hypothesis holds that our thoughts are shaped by our native language, and that speakers of different languages therefore think differently. This hypothesis is controversial in part because it appears to deny the possibility of a universal groundwork for human cognition, and in part because some findings taken to support it have not reliably replicated. We argue that considering this hypothesis through the lens of probabilistic inference has the potential to resolve both issues, at least with respect to certain prominent findings in the domain of color cognition. We explore a probabilistic model that is grounded in a presumed universal perceptual color space and in language-specific categories over that space. The model predicts that categories will most clearly affect color memory when perceptual information is uncertain. In line with earlier studies, we show that this model accounts for language-consistent biases in color reconstruction from memory in English speakers, modulated by uncertainty. We also show, to our knowledge for the first time, that such a model accounts for influential existing data on cross-language differences in color discrimination from memory, both within and across categories. We suggest that these ideas may help to clarify the debate over the Sapir-Whorf hypothesis.}
+      \field{issue}{7}
+      \field{journaltitle}{PLOS ONE}
+      \field{month}{7}
+      \field{title}{The Sapir-Whorf Hypothesis and Probabilistic Inference: Evidence from the Domain of Color}
+      \field{volume}{11}
+      \field{year}{2016}
+      \field{pages}{e0158725\bibrangedash}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://doi.org/10.1371/journal.pone.0158725
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1371/journal.pone.0158725
+      \endverb
+    \endentry
+    \entry{Barbara_1996}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=69597458e9af995c5ab2074726144579}{%
+           family={Czarniawska},
+           familyi={C\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{69597458e9af995c5ab2074726144579}
+      \strng{fullhash}{69597458e9af995c5ab2074726144579}
+      \strng{bibnamehash}{69597458e9af995c5ab2074726144579}
+      \strng{authorbibnamehash}{69597458e9af995c5ab2074726144579}
+      \strng{authornamehash}{69597458e9af995c5ab2074726144579}
+      \strng{authorfullhash}{69597458e9af995c5ab2074726144579}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scandinavian Journal of Management}
+      \field{month}{12}
+      \field{title}{Realities and relationships. Soundings in social construction: by Kenneth J. Gergen. Harvard University Press, Cambridge, MA 1994, 356 pp., cloth}
+      \field{volume}{12}
+      \field{year}{1996}
+      \field{pages}{468\bibrangedash 470}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1016/0956-5221(97)81362-0
+      \endverb
+    \endentry
+    \entry{Garcia_2023}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=96bd79db2c8a14678118ff114d385beb}{%
+           family={García},
+           familyi={G\bibinitperiod},
+           given={Adolfo\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=537449e8fb3ec6039e1e6a9e33935e91}{%
+           family={Leon},
+           familyi={L\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=6f72a3b8fa9b50b3d937ced9040640f5}{%
+           family={Tee},
+           familyi={T\bibinitperiod},
+           given={Boon\bibnamedelima Lead},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43d02974b36aa35cc48eaed58d87146d}{%
+           family={Blasi},
+           familyi={B\bibinitperiod},
+           given={Damián\bibnamedelima E},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74e4d91be201cdcf8ed31618176bb889}{%
+           family={Gorno-Tempini},
+           familyi={G\bibinithyphendelim T\bibinitperiod},
+           given={Maria\bibnamedelima Luisa},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{979b5490d6ec032e623befb471d1622a}
+      \strng{fullhash}{bb75ed35c005bb3e9f7b3f9bfc4296b9}
+      \strng{bibnamehash}{bb75ed35c005bb3e9f7b3f9bfc4296b9}
+      \strng{authorbibnamehash}{bb75ed35c005bb3e9f7b3f9bfc4296b9}
+      \strng{authornamehash}{979b5490d6ec032e623befb471d1622a}
+      \strng{authorfullhash}{bb75ed35c005bb3e9f7b3f9bfc4296b9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the field of neurodegeneration, speech and language assessments are useful for diagnosing aphasic syndromes and for characterizing other disorders. As a complement to classic tests, scalable and low-cost digital tools can capture relevant anomalies automatically, potentially supporting the quest for globally equitable markers of brain health. However, this promise remains unfulfilled due to limited linguistic diversity in scientific works and clinical instruments.Here we argue for cross-linguistic research as a core strategy to counter this problem.First, we survey the contributions of linguistic assessments in the study of primary progressive aphasia and the three most prevalent neurodegenerative disorders worldwide—Alzheimer’s disease, Parkinson’s disease, and behavioural variant frontotemporal dementia. Second, we address two forms of linguistic unfairness in the literature: the neglect of most of the world’s 7000 languages and the preponderance of English-speaking cohorts. Third, we review studies showing that linguistic dysfunctions in a given disorder may vary depending on the patient’s language and that English speakers offer a suboptimal benchmark for other language groups. Finally, we highlight different approaches, tools and initiatives for cross-linguistic research, identifying core challenges for their deployment.Overall, we seek to inspire timely actions to counter a looming source of inequity in behavioural neurology.}
+      \field{issn}{0006-8950}
+      \field{issue}{12}
+      \field{journaltitle}{Brain}
+      \field{month}{12}
+      \field{title}{Speech and language markers of neurodegeneration: a call for global equity}
+      \field{volume}{146}
+      \field{year}{2023}
+      \field{pages}{4870\bibrangedash 4879}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1093/brain/awad253
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/brain/awad253
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/brain/awad253
+      \endverb
+    \endentry
+    \entry{Izard_2010}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c2195bb4a138be579d0fa9304ca0ccf2}{%
+           family={Izard},
+           familyi={I\bibinitperiod},
+           given={Carroll\bibnamedelima E},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{c2195bb4a138be579d0fa9304ca0ccf2}
+      \strng{fullhash}{c2195bb4a138be579d0fa9304ca0ccf2}
+      \strng{bibnamehash}{c2195bb4a138be579d0fa9304ca0ccf2}
+      \strng{authorbibnamehash}{c2195bb4a138be579d0fa9304ca0ccf2}
+      \strng{authornamehash}{c2195bb4a138be579d0fa9304ca0ccf2}
+      \strng{authorfullhash}{c2195bb4a138be579d0fa9304ca0ccf2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{I am very appreciative of those who wrote comments on my article. They raised some interesting and some quite challenging questions. Their responses seem quite in synchrony with my focus and intent?to reveal some problems that we need to address in advancing emotion science. The authors of the commentaries reflected some of the same sort of differences among themselves as I found among the emotion scientists whom I surveyed in search of a definition of emotion. Like the emotion scientists who responded to my survey, most of the authors of the commentaries were generally in agreement on the significance of research in the emotion domain but not in agreement on the meaning of the term emotion. I briefly discuss the noteworthy question (raised in one of the commentaries) as to whether and when discrete emotion concepts might someday share the same fate as the general term emotion and disappear from emotion science.}
+      \field{issn}{1754-0739}
+      \field{issue}{4}
+      \field{journaltitle}{Emotion Review}
+      \field{month}{10}
+      \field{note}{doi: 10.1177/1754073910374670}
+      \field{title}{More Meanings and More Questions for the term “Emotion”}
+      \field{volume}{2}
+      \field{year}{2010}
+      \field{pages}{383\bibrangedash 385}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1177/1754073910374670
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/1754073910374670
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/1754073910374670
+      \endverb
+    \endentry
+    \entry{Koerner_1992}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=52b2f867e37b093a806b2394cbbbd70d}{%
+           family={Koerner},
+           familyi={K\bibinitperiod},
+           given={E\bibnamedelima F\bibnamedelima Konrad},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{52b2f867e37b093a806b2394cbbbd70d}
+      \strng{fullhash}{52b2f867e37b093a806b2394cbbbd70d}
+      \strng{bibnamehash}{52b2f867e37b093a806b2394cbbbd70d}
+      \strng{authorbibnamehash}{52b2f867e37b093a806b2394cbbbd70d}
+      \strng{authornamehash}{52b2f867e37b093a806b2394cbbbd70d}
+      \strng{authorfullhash}{52b2f867e37b093a806b2394cbbbd70d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This article presents a historical overview of linguistic ideas in relation to the Sapir-Whorf Hypothesis. The source of the hypothesis is found in the writings of Wilhelm von Humboldt, and further development is found in the writings of Heymann Steinthal, Franz Boas, Edward Sapir, Benjamin Lee Whorf, Carl Voegelin, and Dell Hymes, among others. Humboldtian ideas have had a long-standing impact on American ethnolinguistics.}
+      \field{issue}{2}
+      \field{journaltitle}{Journal of Linguistic Anthropology}
+      \field{title}{The Sapir-Whorf Hypothesis: A Preliminary History and a Bibliographical Essay}
+      \field{volume}{2}
+      \field{year}{1992}
+      \field{pages}{173\bibrangedash 198}
+      \range{pages}{26}
+      \verb{doi}
+      \verb https://doi.org/10.1525/jlin.1992.2.2.173
+      \endverb
+      \verb{urlraw}
+      \verb https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/jlin.1992.2.2.173
+      \endverb
+      \verb{url}
+      \verb https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/jlin.1992.2.2.173
+      \endverb
+    \endentry
+    \entry{Russell_1980}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee6848fb2fac892f7b0fe7674e81f502}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={James\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{ee6848fb2fac892f7b0fe7674e81f502}
+      \strng{fullhash}{ee6848fb2fac892f7b0fe7674e81f502}
+      \strng{bibnamehash}{ee6848fb2fac892f7b0fe7674e81f502}
+      \strng{authorbibnamehash}{ee6848fb2fac892f7b0fe7674e81f502}
+      \strng{authornamehash}{ee6848fb2fac892f7b0fe7674e81f502}
+      \strng{authorfullhash}{ee6848fb2fac892f7b0fe7674e81f502}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Factor-analytic evidence has led most psychologists to describe affect as a set of dimensions, such as displeasure, distress, depression, excitement, and so on, with each dimension varying independently of the others. However, there is other evidence that rather than being independent, these affective dimensions are interrelated in a highly systematic fashion. The evidence suggests that these interrelationships can be represented by a spatial model in which affective concepts fall in a circle in the following order: pleasure (0), excitement (45), arousal (90), distress (135), displeasure (180), depression (225), sleepiness (270), and relaxation (315). This model was offered both as a way psychologists can represent the structure of affective experience, as assessed through self-report, and as a representation of the cognitive structure that laymen utilize in conceptualizing affect. Supportive evidence was obtained by scaling 28 emotion-denoting adjectives in 4 different ways: R. T. Ross's (1938) technique for a circular ordering of variables, a multidimensional scaling procedure based on perceived similarity among the terms, a unidimensional scaling on hypothesized pleasure–displeasure and degree-of-arousal dimensions, and a principal-components analysis of 343 Ss' self-reports of their current affective states. (70 ref) (PsycINFO Database Record (c) 2016 APA, all rights reserved)}
+      \field{issn}{1939-1315(Electronic),0022-3514(Print)}
+      \field{issue}{6}
+      \field{journaltitle}{Journal of Personality and Social Psychology}
+      \field{title}{A circumplex model of affect.}
+      \field{volume}{39}
+      \field{year}{1980}
+      \field{pages}{1161\bibrangedash 1178}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1037/h0077714
+      \endverb
+      \keyw{*Emotional States,*Emotions,Models}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{Blasi_2022}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=43d02974b36aa35cc48eaed58d87146d}{%
+           family={Blasi},
+           familyi={B\bibinitperiod},
+           given={Damián\bibnamedelima E},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=135deb37dc4a16e2d813922bf87fe654}{%
+           family={Henrich},
+           familyi={H\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb22a61c81f132e9d4f6e274b2ca47a3}{%
+           family={Adamou},
+           familyi={A\bibinitperiod},
+           given={Evangelia},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1aaf61365a123b6f46fde21b2c089d7}{%
+           family={Kemmerer},
+           familyi={K\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63601ee6c8398ee421bfca5893d3dc00}{%
+           family={Majid},
+           familyi={M\bibinitperiod},
+           given={Asifa},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{71e98dc083aefc7ad969f4a7f2d985f9}
+      \strng{fullhash}{4d43b3a4f5b3e2ee244620e45590744c}
+      \strng{bibnamehash}{4d43b3a4f5b3e2ee244620e45590744c}
+      \strng{authorbibnamehash}{4d43b3a4f5b3e2ee244620e45590744c}
+      \strng{authornamehash}{71e98dc083aefc7ad969f4a7f2d985f9}
+      \strng{authorfullhash}{4d43b3a4f5b3e2ee244620e45590744c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{English is the dominant language in the study of human cognition and behavior: the individuals studied by cognitive scientists, as well as most of the scientists themselves, are frequently English speakers. However, English differs from other languages in ways that have consequences for the whole of the cognitive sciences, reaching far beyond the study of language itself. Here, we review an emerging body of evidence that highlights how the particular characteristics of English and the linguistic habits of English speakers bias the field by both warping research programs (e.g., overemphasizing features and mechanisms present in English over others) and overgeneralizing observations from English speakers? behaviors, brains, and cognition to our entire species. We propose mitigating strategies that could help avoid some of these pitfalls.}
+      \field{issn}{1364-6613}
+      \field{issue}{12}
+      \field{journaltitle}{Trends in Cognitive Sciences}
+      \field{month}{12}
+      \field{note}{doi: 10.1016/j.tics.2022.09.015}
+      \field{title}{Over-reliance on English hinders cognitive science}
+      \field{volume}{26}
+      \field{year}{2022}
+      \field{pages}{1153\bibrangedash 1170}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.tics.2022.09.015
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.tics.2022.09.015
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.tics.2022.09.015
+      \endverb
+    \endentry
+    \entry{Cibelli_2016}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=719023a6356f26c1a1f88837680fd4ed}{%
+           family={Cibelli},
+           familyi={C\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9eda43a644030ac3eceaf837cb2489ac}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b77ad830e4ec2b481fdfa653d5841d95}{%
+           family={Austerweil},
+           familyi={A\bibinitperiod},
+           given={Joseph\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15f19cfb916ba0b8afb494f250ea80a2}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={Thomas\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0225adbedae10539fd24476b498668b4}{%
+           family={Regier},
+           familyi={R\bibinitperiod},
+           given={Terry},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{1453274f33580d00194abc6c6e16a85c}
+      \strng{fullhash}{b686fcde76610a636dd75f80e03eb562}
+      \strng{bibnamehash}{b686fcde76610a636dd75f80e03eb562}
+      \strng{authorbibnamehash}{b686fcde76610a636dd75f80e03eb562}
+      \strng{authornamehash}{1453274f33580d00194abc6c6e16a85c}
+      \strng{authorfullhash}{b686fcde76610a636dd75f80e03eb562}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Sapir-Whorf hypothesis holds that our thoughts are shaped by our native language, and that speakers of different languages therefore think differently. This hypothesis is controversial in part because it appears to deny the possibility of a universal groundwork for human cognition, and in part because some findings taken to support it have not reliably replicated. We argue that considering this hypothesis through the lens of probabilistic inference has the potential to resolve both issues, at least with respect to certain prominent findings in the domain of color cognition. We explore a probabilistic model that is grounded in a presumed universal perceptual color space and in language-specific categories over that space. The model predicts that categories will most clearly affect color memory when perceptual information is uncertain. In line with earlier studies, we show that this model accounts for language-consistent biases in color reconstruction from memory in English speakers, modulated by uncertainty. We also show, to our knowledge for the first time, that such a model accounts for influential existing data on cross-language differences in color discrimination from memory, both within and across categories. We suggest that these ideas may help to clarify the debate over the Sapir-Whorf hypothesis.}
+      \field{issue}{7}
+      \field{journaltitle}{PLOS ONE}
+      \field{month}{7}
+      \field{title}{The Sapir-Whorf Hypothesis and Probabilistic Inference: Evidence from the Domain of Color}
+      \field{volume}{11}
+      \field{year}{2016}
+      \field{pages}{e0158725\bibrangedash}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://doi.org/10.1371/journal.pone.0158725
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1371/journal.pone.0158725
+      \endverb
+    \endentry
+    \entry{Barbara_1996}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=69597458e9af995c5ab2074726144579}{%
+           family={Czarniawska},
+           familyi={C\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{69597458e9af995c5ab2074726144579}
+      \strng{fullhash}{69597458e9af995c5ab2074726144579}
+      \strng{bibnamehash}{69597458e9af995c5ab2074726144579}
+      \strng{authorbibnamehash}{69597458e9af995c5ab2074726144579}
+      \strng{authornamehash}{69597458e9af995c5ab2074726144579}
+      \strng{authorfullhash}{69597458e9af995c5ab2074726144579}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scandinavian Journal of Management}
+      \field{month}{12}
+      \field{title}{Realities and relationships. Soundings in social construction: by Kenneth J. Gergen. Harvard University Press, Cambridge, MA 1994, 356 pp., cloth}
+      \field{volume}{12}
+      \field{year}{1996}
+      \field{pages}{468\bibrangedash 470}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1016/0956-5221(97)81362-0
+      \endverb
+    \endentry
+    \entry{Garcia_2023}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=96bd79db2c8a14678118ff114d385beb}{%
+           family={García},
+           familyi={G\bibinitperiod},
+           given={Adolfo\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=537449e8fb3ec6039e1e6a9e33935e91}{%
+           family={Leon},
+           familyi={L\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=6f72a3b8fa9b50b3d937ced9040640f5}{%
+           family={Tee},
+           familyi={T\bibinitperiod},
+           given={Boon\bibnamedelima Lead},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43d02974b36aa35cc48eaed58d87146d}{%
+           family={Blasi},
+           familyi={B\bibinitperiod},
+           given={Damián\bibnamedelima E},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74e4d91be201cdcf8ed31618176bb889}{%
+           family={Gorno-Tempini},
+           familyi={G\bibinithyphendelim T\bibinitperiod},
+           given={Maria\bibnamedelima Luisa},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{979b5490d6ec032e623befb471d1622a}
+      \strng{fullhash}{bb75ed35c005bb3e9f7b3f9bfc4296b9}
+      \strng{bibnamehash}{bb75ed35c005bb3e9f7b3f9bfc4296b9}
+      \strng{authorbibnamehash}{bb75ed35c005bb3e9f7b3f9bfc4296b9}
+      \strng{authornamehash}{979b5490d6ec032e623befb471d1622a}
+      \strng{authorfullhash}{bb75ed35c005bb3e9f7b3f9bfc4296b9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the field of neurodegeneration, speech and language assessments are useful for diagnosing aphasic syndromes and for characterizing other disorders. As a complement to classic tests, scalable and low-cost digital tools can capture relevant anomalies automatically, potentially supporting the quest for globally equitable markers of brain health. However, this promise remains unfulfilled due to limited linguistic diversity in scientific works and clinical instruments.Here we argue for cross-linguistic research as a core strategy to counter this problem.First, we survey the contributions of linguistic assessments in the study of primary progressive aphasia and the three most prevalent neurodegenerative disorders worldwide—Alzheimer’s disease, Parkinson’s disease, and behavioural variant frontotemporal dementia. Second, we address two forms of linguistic unfairness in the literature: the neglect of most of the world’s 7000 languages and the preponderance of English-speaking cohorts. Third, we review studies showing that linguistic dysfunctions in a given disorder may vary depending on the patient’s language and that English speakers offer a suboptimal benchmark for other language groups. Finally, we highlight different approaches, tools and initiatives for cross-linguistic research, identifying core challenges for their deployment.Overall, we seek to inspire timely actions to counter a looming source of inequity in behavioural neurology.}
+      \field{issn}{0006-8950}
+      \field{issue}{12}
+      \field{journaltitle}{Brain}
+      \field{month}{12}
+      \field{title}{Speech and language markers of neurodegeneration: a call for global equity}
+      \field{volume}{146}
+      \field{year}{2023}
+      \field{pages}{4870\bibrangedash 4879}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1093/brain/awad253
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/brain/awad253
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/brain/awad253
+      \endverb
+    \endentry
+    \entry{Izard_2010}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c2195bb4a138be579d0fa9304ca0ccf2}{%
+           family={Izard},
+           familyi={I\bibinitperiod},
+           given={Carroll\bibnamedelima E},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{c2195bb4a138be579d0fa9304ca0ccf2}
+      \strng{fullhash}{c2195bb4a138be579d0fa9304ca0ccf2}
+      \strng{bibnamehash}{c2195bb4a138be579d0fa9304ca0ccf2}
+      \strng{authorbibnamehash}{c2195bb4a138be579d0fa9304ca0ccf2}
+      \strng{authornamehash}{c2195bb4a138be579d0fa9304ca0ccf2}
+      \strng{authorfullhash}{c2195bb4a138be579d0fa9304ca0ccf2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{I am very appreciative of those who wrote comments on my article. They raised some interesting and some quite challenging questions. Their responses seem quite in synchrony with my focus and intent?to reveal some problems that we need to address in advancing emotion science. The authors of the commentaries reflected some of the same sort of differences among themselves as I found among the emotion scientists whom I surveyed in search of a definition of emotion. Like the emotion scientists who responded to my survey, most of the authors of the commentaries were generally in agreement on the significance of research in the emotion domain but not in agreement on the meaning of the term emotion. I briefly discuss the noteworthy question (raised in one of the commentaries) as to whether and when discrete emotion concepts might someday share the same fate as the general term emotion and disappear from emotion science.}
+      \field{issn}{1754-0739}
+      \field{issue}{4}
+      \field{journaltitle}{Emotion Review}
+      \field{month}{10}
+      \field{note}{doi: 10.1177/1754073910374670}
+      \field{title}{More Meanings and More Questions for the term “Emotion”}
+      \field{volume}{2}
+      \field{year}{2010}
+      \field{pages}{383\bibrangedash 385}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1177/1754073910374670
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/1754073910374670
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/1754073910374670
+      \endverb
+    \endentry
+    \entry{Koerner_1992}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=52b2f867e37b093a806b2394cbbbd70d}{%
+           family={Koerner},
+           familyi={K\bibinitperiod},
+           given={E\bibnamedelima F\bibnamedelima Konrad},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{52b2f867e37b093a806b2394cbbbd70d}
+      \strng{fullhash}{52b2f867e37b093a806b2394cbbbd70d}
+      \strng{bibnamehash}{52b2f867e37b093a806b2394cbbbd70d}
+      \strng{authorbibnamehash}{52b2f867e37b093a806b2394cbbbd70d}
+      \strng{authornamehash}{52b2f867e37b093a806b2394cbbbd70d}
+      \strng{authorfullhash}{52b2f867e37b093a806b2394cbbbd70d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This article presents a historical overview of linguistic ideas in relation to the Sapir-Whorf Hypothesis. The source of the hypothesis is found in the writings of Wilhelm von Humboldt, and further development is found in the writings of Heymann Steinthal, Franz Boas, Edward Sapir, Benjamin Lee Whorf, Carl Voegelin, and Dell Hymes, among others. Humboldtian ideas have had a long-standing impact on American ethnolinguistics.}
+      \field{issue}{2}
+      \field{journaltitle}{Journal of Linguistic Anthropology}
+      \field{title}{The Sapir-Whorf Hypothesis: A Preliminary History and a Bibliographical Essay}
+      \field{volume}{2}
+      \field{year}{1992}
+      \field{pages}{173\bibrangedash 198}
+      \range{pages}{26}
+      \verb{doi}
+      \verb https://doi.org/10.1525/jlin.1992.2.2.173
+      \endverb
+      \verb{urlraw}
+      \verb https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/jlin.1992.2.2.173
+      \endverb
+      \verb{url}
+      \verb https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/jlin.1992.2.2.173
+      \endverb
+    \endentry
+    \entry{Russell_1980}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee6848fb2fac892f7b0fe7674e81f502}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={James\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{ee6848fb2fac892f7b0fe7674e81f502}
+      \strng{fullhash}{ee6848fb2fac892f7b0fe7674e81f502}
+      \strng{bibnamehash}{ee6848fb2fac892f7b0fe7674e81f502}
+      \strng{authorbibnamehash}{ee6848fb2fac892f7b0fe7674e81f502}
+      \strng{authornamehash}{ee6848fb2fac892f7b0fe7674e81f502}
+      \strng{authorfullhash}{ee6848fb2fac892f7b0fe7674e81f502}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Factor-analytic evidence has led most psychologists to describe affect as a set of dimensions, such as displeasure, distress, depression, excitement, and so on, with each dimension varying independently of the others. However, there is other evidence that rather than being independent, these affective dimensions are interrelated in a highly systematic fashion. The evidence suggests that these interrelationships can be represented by a spatial model in which affective concepts fall in a circle in the following order: pleasure (0), excitement (45), arousal (90), distress (135), displeasure (180), depression (225), sleepiness (270), and relaxation (315). This model was offered both as a way psychologists can represent the structure of affective experience, as assessed through self-report, and as a representation of the cognitive structure that laymen utilize in conceptualizing affect. Supportive evidence was obtained by scaling 28 emotion-denoting adjectives in 4 different ways: R. T. Ross's (1938) technique for a circular ordering of variables, a multidimensional scaling procedure based on perceived similarity among the terms, a unidimensional scaling on hypothesized pleasure–displeasure and degree-of-arousal dimensions, and a principal-components analysis of 343 Ss' self-reports of their current affective states. (70 ref) (PsycINFO Database Record (c) 2016 APA, all rights reserved)}
+      \field{issn}{1939-1315(Electronic),0022-3514(Print)}
+      \field{issue}{6}
+      \field{journaltitle}{Journal of Personality and Social Psychology}
+      \field{title}{A circumplex model of affect.}
+      \field{volume}{39}
+      \field{year}{1980}
+      \field{pages}{1161\bibrangedash 1178}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1037/h0077714
+      \endverb
+      \keyw{*Emotional States,*Emotions,Models}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

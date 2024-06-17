@@ -1,0 +1,24 @@
+\documentclass{article}
+
+\usepackage{EngReport}
+\geometry{letterpaper, portrait, includeheadfoot=true, hmargin=1in, vmargin=0.8in}
+\renewcommand{\familydefault}{\rmdefault}
+
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{hyperref}
+\usepackage{bookmark}
+
+\usepackage[style=apa]{biblatex}
+\bibliography{bibliography}
+
+\begin{document}
+\renewcommand{\familydefault}{\rmdefault}
+\input{headerfooter}
+
+\fontsize{11}{15}\selectfont{
+    \input{content.tex}
+    \printbibliography
+}
+
+\end{document}

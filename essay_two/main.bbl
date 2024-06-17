@@ -1,0 +1,1175 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Boatman_1997}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=4680c3e6134d53c62f06c1782f96902a}{%
+           family={Boatman},
+           familyi={B\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76c283b9cf69fe03ee100942b0e89ad4}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bd5d7a8c2a01cf8d3d1a6ceaa6f93a7}{%
+           family={Goldstein},
+           familyi={G\bibinitperiod},
+           given={M\bibnamedelima H},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e615b772eccee241bd025d3db8796b52}{%
+           family={Lesser},
+           familyi={L\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad679ca76f660145bc4fe37213a359cb}{%
+           family={Gordon},
+           familyi={G\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{112097c7d38831c220cb1b887ba5fd74}
+      \strng{fullhash}{e0ba7ba0a9d480b59476382f5dcbfc59}
+      \strng{bibnamehash}{e0ba7ba0a9d480b59476382f5dcbfc59}
+      \strng{authorbibnamehash}{e0ba7ba0a9d480b59476382f5dcbfc59}
+      \strng{authornamehash}{112097c7d38831c220cb1b887ba5fd74}
+      \strng{authorfullhash}{e0ba7ba0a9d480b59476382f5dcbfc59}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The effects of direct cortical electrical interference on consonant and vowel discrimination were investigated in five patients with implanted subdural electrode arrays. Without electrical interference, patients' performance discriminating consonants and vowels was intact. With electrical interference, consonant discrimination was impaired at one electrode site in each patient on the superior temporal gyrus of the lateral left perisylvian cortex. Conversely, vowel and tone discrimination remained relatively intact when tested with electrical interference at the same site. Analysis of patients' consonant discrimination errors revealed that neither differences in acoustic temporal structure nor syllable position fully account for the consonantvowel perceptual dissociations elicited. Our data suggest that at the cortical level consonant and vowel perception are intrinsically distinct perceptual phenomena. The selective impairment of consonant, but not vowel, discrimination further suggests that consonant and vowel perception are distinguished by differences in relative dependence on the functional - perhaps integrative - resources of the left lateral superior temporal gyrus.}
+      \field{issn}{0010-9452}
+      \field{issue}{1}
+      \field{journaltitle}{Cortex}
+      \field{title}{Neuroperceptual Differences in Consonant and Vowel Discrimination: As Revealed by Direct Cortical Electrical Interference}
+      \field{volume}{33}
+      \field{year}{1997}
+      \field{pages}{83\bibrangedash 98}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0010-9452(97)80006-8
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0010945297800068
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0010945297800068
+      \endverb
+    \endentry
+    \entry{Bonatti_2005}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=40d926964460414ad4f7daef3bffc9f6}{%
+           family={Bonatti},
+           familyi={B\bibinitperiod},
+           given={Luca\bibnamedelima L},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=884ec5e2575f3635ab5a083d34ac8e9b}{%
+           family={Peña},
+           familyi={P\bibinitperiod},
+           given={Marcela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f6b4b6dd4fb670bbdd67eeae63b2eec}{%
+           family={Nespor},
+           familyi={N\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2db544a969f488fa2ccd883d9724cb88}{%
+           family={Mehler},
+           familyi={M\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{04fab9668f0f3745469ef7bdabee8de6}
+      \strng{fullhash}{5eb11560b2061a71834416212f0786ff}
+      \strng{bibnamehash}{5eb11560b2061a71834416212f0786ff}
+      \strng{authorbibnamehash}{5eb11560b2061a71834416212f0786ff}
+      \strng{authornamehash}{04fab9668f0f3745469ef7bdabee8de6}
+      \strng{authorfullhash}{5eb11560b2061a71834416212f0786ff}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Speech is produced mainly in continuous streams containing several words. Listeners can use the transitional probability (TP) between adjacent and non-adjacent syllables to segment “words” from a continuous stream of artificial speech, much as they use TPs to organize a variety of perceptual continua. It is thus possible that a general-purpose statistical device exploits any speech unit to achieve segmentation of speech streams. Alternatively, language may limit what representations are open to statistical investigation according to their specific linguistic role. In this article, we focus on vowels and consonants in continuous speech. We hypothesized that vowels and consonants in words carry different kinds of information, the latter being more tied to word identification and the former to grammar. We thus predicted that in a word identification task involving continuous speech, learners would track TPs among consonants, but not among vowels. Our results show a preferential role for consonants in word identification.}
+      \field{issue}{6}
+      \field{journaltitle}{Psychological Science}
+      \field{note}{PMID: 15943671}
+      \field{title}{Linguistic Constraints on Statistical Computations: The Role of Consonants and Vowels in Continuous Speech Processing}
+      \field{volume}{16}
+      \field{year}{2005}
+      \field{pages}{451\bibrangedash 459}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1111/j.0956-7976.2005.01556.x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1111/j.0956-7976.2005.01556.x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111/j.0956-7976.2005.01556.x
+      \endverb
+    \endentry
+    \entry{Toro_2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8890f0ecb4b1949c99fa7cf21c7fe553}{%
+           family={Bouchon},
+           familyi={B\bibinitperiod},
+           given={Camillia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08ac74d90114b31432d56e2de95224b7}{%
+           family={Toro},
+           familyi={T\bibinitperiod},
+           given={Juan\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d43f6f7f3cdbcc14762f46b89a1d36a0}
+      \strng{fullhash}{d43f6f7f3cdbcc14762f46b89a1d36a0}
+      \strng{bibnamehash}{d43f6f7f3cdbcc14762f46b89a1d36a0}
+      \strng{authorbibnamehash}{d43f6f7f3cdbcc14762f46b89a1d36a0}
+      \strng{authornamehash}{d43f6f7f3cdbcc14762f46b89a1d36a0}
+      \strng{authorfullhash}{d43f6f7f3cdbcc14762f46b89a1d36a0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In natural languages, vowels tend to convey structures (syntax, prosody) while consonants are more important lexically. The consonant bias, which is the tendency to rely more on consonants than on vowels to process words, is well attested in human adults and infants after the first year of life. Is the consonant bias based on evolutionarily ancient mechanisms, potentially present in other species? The current study investigated this issue in a species phylogenetically distant from humans: Long–Evans rats. During training, the animals were presented with four natural word-forms (e.g., mano, “hand”). We then compared their responses to novel words carrying either a consonant (pano) or a vowel change (meno). Results show that the animals were less disrupted by consonantal alterations than by vocalic alterations of words. That is, word recognition was more affected by the alteration of a vowel than a consonant. Together with previous findings in very young human infants, this reliance on vocalic information we observe in rats suggests that the emergence of the consonant bias may require a combination of vocal, cognitive and auditory skills that rodents do not seem to possess.}
+      \field{issn}{1435-9456}
+      \field{issue}{5}
+      \field{journaltitle}{Animal Cognition}
+      \field{title}{Is the consonant bias specifically human? Long–Evans rats encode vowels better than consonants in words}
+      \field{volume}{22}
+      \field{year}{2019}
+      \field{pages}{839\bibrangedash 850}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/s10071-019-01280-3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10071-019-01280-3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10071-019-01280-3
+      \endverb
+    \endentry
+    \entry{Nazzi_2015}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=8890f0ecb4b1949c99fa7cf21c7fe553}{%
+           family={Bouchon},
+           familyi={B\bibinitperiod},
+           given={Camillia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79822fd807e415220b8a0ce76687d96a}{%
+           family={Floccia},
+           familyi={F\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d51731a05d845814ed6edece14887ea7}{%
+           family={Fux},
+           familyi={F\bibinitperiod},
+           given={Thibaut},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d6b671c5c66144a8861594ded21e823}{%
+           family={Adda-Decker},
+           familyi={A\bibinithyphendelim D\bibinitperiod},
+           given={Martine},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c15923d84a5bcffb34bf0423b98f5fb}{%
+           family={Nazzi},
+           familyi={N\bibinitperiod},
+           given={Thierry},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{598f471c19f5ffe787031cc9f2476743}
+      \strng{fullhash}{0911c8a535b1a27d5630234a616aa783}
+      \strng{bibnamehash}{0911c8a535b1a27d5630234a616aa783}
+      \strng{authorbibnamehash}{0911c8a535b1a27d5630234a616aa783}
+      \strng{authornamehash}{598f471c19f5ffe787031cc9f2476743}
+      \strng{authorfullhash}{0911c8a535b1a27d5630234a616aa783}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Consonants and vowels differ acoustically and articulatorily, but also functionally: Consonants are more relevant for lexical processing, and vowels for prosodic/syntactic processing. These functional biases could be powerful bootstrapping mechanisms for learning language, but their developmental origin remains unclear. The relative importance of consonants and vowels at the onset of lexical acquisition was assessed in French-learning 5-month-olds by testing sensitivity to minimal phonetic changes in their own name. Infants’ reactions to mispronunciations revealed sensitivity to vowel but not consonant changes. Vowels were also more salient (on duration and intensity) but less distinct (on spectrally based measures) than consonants. Lastly, vowel (but not consonant) mispronunciation detection was modulated by acoustic factors, in particular spectrally based distance. These results establish that consonant changes do not affect lexical recognition at 5 months, while vowel changes do; the consonant bias observed later in development does not emerge until after 5 months through additional language exposure.}
+      \field{journaltitle}{Developmental Science}
+      \field{number}{4}
+      \field{title}{Call me Alix, not Elix: vowels are more important than consonants in own-name recognition at 5 months}
+      \field{volume}{18}
+      \field{year}{2015}
+      \field{pages}{587\bibrangedash 598}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1111/desc.12242
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1111/desc.12242
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12242
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12242
+      \endverb
+    \endentry
+    \entry{Caramazza_2000}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=92d05f5d386a7f8a618b43d747591049}{%
+           family={Caramazza},
+           familyi={C\bibinitperiod},
+           given={Alfonso},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=951294546fedc81d98528c37c9af6b0b}{%
+           family={Chialant},
+           familyi={C\bibinitperiod},
+           given={Doriana},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=489de751c96cf65a8a5f9c1df76e6f1e}{%
+           family={Capasso},
+           familyi={C\bibinitperiod},
+           given={Rita},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4356807f7b7d2b3b08800cc88aaf13e4}{%
+           family={Miceli},
+           familyi={M\bibinitperiod},
+           given={Gabriele},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dcc5a04a4df45c9900297eb39e6b314f}
+      \strng{fullhash}{fa7d8304c9d5cc4b5206eb95535af505}
+      \strng{bibnamehash}{fa7d8304c9d5cc4b5206eb95535af505}
+      \strng{authorbibnamehash}{fa7d8304c9d5cc4b5206eb95535af505}
+      \strng{authornamehash}{dcc5a04a4df45c9900297eb39e6b314f}
+      \strng{authorfullhash}{fa7d8304c9d5cc4b5206eb95535af505}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There are two views about the nature of consonants and vowels. One view holds that they are categorically distinct objects that play a fundamental role in the construction of syllables in speech production1,2,3. The other view is that they are convenient labels for distinguishing between peak (vowel) and non-peak (consonant) parts of a continuous stream of sound that varies in sonority (roughly the degree of openness of the vocal apparatus during speech)4,5,6, or that they are summary labels for bundles of feature segments7,8. Taking the latter view, consonants and vowels do not have an independent status in language processing. Here we provide evidence for the possible categorical distinction between consonants and vowels in the brain. We report the performance of two Italian-speaking aphasics who show contrasting, selective difficulties in producing vowels and consonants. Their performance in producing individual consonants is independent of the sonority value and feature properties of the consonants. This pattern of results suggests that consonants and vowels are processed by distinct neural mechanisms, thereby providing evidence for their independent status in language production.}
+      \field{issn}{1476-4687}
+      \field{issue}{6768}
+      \field{journaltitle}{Nature}
+      \field{title}{Separable processing of consonants and vowels}
+      \field{volume}{403}
+      \field{year}{2000}
+      \field{pages}{428\bibrangedash 430}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1038/35000206
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/35000206
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/35000206
+      \endverb
+    \endentry
+    \entry{Carreiras_2008}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=179abed4d8da28871e0dcbe897e32bde}{%
+           family={Carreiras},
+           familyi={C\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f43f5e116fee0a45ecd6737b6f3e1a1}{%
+           family={Price},
+           familyi={P\bibinitperiod},
+           given={Cathy\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dc776ed44ecad87ebede85f75fe1b46c}
+      \strng{fullhash}{dc776ed44ecad87ebede85f75fe1b46c}
+      \strng{bibnamehash}{dc776ed44ecad87ebede85f75fe1b46c}
+      \strng{authorbibnamehash}{dc776ed44ecad87ebede85f75fe1b46c}
+      \strng{authornamehash}{dc776ed44ecad87ebede85f75fe1b46c}
+      \strng{authorfullhash}{dc776ed44ecad87ebede85f75fe1b46c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Previous behavioral and electrophysiological studies have shown dissociation between consonants and vowels. We used functional magnetic resonance imaging to investigate whether vowel and consonant processing differences are expressed in the neuronal activation pattern and whether they are modulated by task. The experimental design involved reading aloud and lexical decision on visually presented pseudowords created by transposing or replacing consonants or vowels in words. During reading aloud, changing vowels relative to consonants increased activation in a right middle temporal area previously associated with prosodic processing of speech input. In contrast, during lexical decision, changing consonants relative to vowels increased activation in a right middle frontal area associated with inhibiting go-responses. The task-sensitive nature of these effects demonstrates that consonants and vowels differ at a processing, rather than stimulus, level. We argue that prosodic processing of vowel changes arise during self-monitoring of speech output, whereas greater inhibition of go-responses to consonant changes follows insufficient lexico-semantic processing when nonwords looking particularly like words must be rejected. Our results are consistent with claims that vowels and consonants place differential demands on prosodic and lexico-semantic processing, respectively. They also highlight the different types of information that can be drawn from functional imaging and neuropsychological studies.}
+      \field{issn}{1047-3211}
+      \field{issue}{7}
+      \field{journaltitle}{Cerebral Cortex}
+      \field{month}{7}
+      \field{title}{Brain Activation for Consonants and Vowels}
+      \field{volume}{18}
+      \field{year}{2008}
+      \field{pages}{1727\bibrangedash 1735}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1093/cercor/bhm202
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/cercor/bhm202
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/cercor/bhm202
+      \endverb
+    \endentry
+    \entry{Mallikarjun_2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=511e7b6f5347995f876e0d45096d9263}{%
+           family={Mallikarjun},
+           familyi={M\bibinitperiod},
+           given={Amritha},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09293a6374870982c9c343807dbd46a7}{%
+           family={Shroads},
+           familyi={S\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f7612024bbedfc44ec025fd3790aec9}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={Rochelle\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fa356668566392b3647d73273a924e70}
+      \strng{fullhash}{282f86064daafd42902044d4477e22a6}
+      \strng{bibnamehash}{282f86064daafd42902044d4477e22a6}
+      \strng{authorbibnamehash}{282f86064daafd42902044d4477e22a6}
+      \strng{authornamehash}{fa356668566392b3647d73273a924e70}
+      \strng{authorfullhash}{282f86064daafd42902044d4477e22a6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Consonants and vowels play different roles in speech perception: listeners rely more heavily on consonant information rather than vowel information when distinguishing between words. This reliance on consonants for word identification is the consonant bias Nespor et al. (Ling 2:203–230, 2003). Several factors modulate infants’ development of the consonant bias, including fine-grained temporal processing ability and native language exposure [for review, see Nazzi et al. (Curr Direct Psychol Sci 25:291–296, 2016)]. A rat model demonstrated that mature fine-grained temporal processing alone cannot account for consonant bias emergence; linguistic exposure is also necessary Bouchon and Toro (An Cog 22:839–850, 2019). This study tested domestic dogs, who have similarly fine-grained temporal processing but more language exposure than rats, to assess whether a minimal lexicon and small degree of regular linguistic exposure can allow for consonant bias development. Dogs demonstrated a vowel bias rather than a consonant bias, preferring their own name over a vowel-mispronounced version of their name, but not in comparison to a consonant-mispronounced version. This is the pattern seen in young infants Bouchon et al. (Dev Sci 18:587–598, 2015) and rats Bouchon et al. (An Cog 22:839–850, 2019). In a follow-up study, dogs treated a consonant-mispronounced version of their name similarly to their actual name, further suggesting that dogs do not treat consonant differences as meaningful for word identity. These results support the findings from Bouchon and Toro (An Cog 2:839–850, 2019), suggesting that there may be a default preference for vowel information over consonant information when identifying word forms, and that the consonant bias may be a human-exclusive tool for language learning.}
+      \field{issn}{1435-9456}
+      \field{issue}{3}
+      \field{journaltitle}{Animal Cognition}
+      \field{title}{The role of linguistic experience in the development of the consonant bias}
+      \field{volume}{24}
+      \field{year}{2021}
+      \field{pages}{419\bibrangedash 431}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s10071-020-01436-6
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10071-020-01436-6
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10071-020-01436-6
+      \endverb
+    \endentry
+    \entry{Ooijen_1996}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=07ffe41b1c1eb5bbcd2c9b1fd4fe7ded}{%
+           family={Ooijen},
+           familyi={O\bibinitperiod},
+           given={Brit\bibnamedelima Van},
+           giveni={B\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{07ffe41b1c1eb5bbcd2c9b1fd4fe7ded}
+      \strng{fullhash}{07ffe41b1c1eb5bbcd2c9b1fd4fe7ded}
+      \strng{bibnamehash}{07ffe41b1c1eb5bbcd2c9b1fd4fe7ded}
+      \strng{authorbibnamehash}{07ffe41b1c1eb5bbcd2c9b1fd4fe7ded}
+      \strng{authornamehash}{07ffe41b1c1eb5bbcd2c9b1fd4fe7ded}
+      \strng{authorfullhash}{07ffe41b1c1eb5bbcd2c9b1fd4fe7ded}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Laboratoire de Sciences Cognitives et Psycholinguistique, Paris, France This study introduces a new paradigm for investigating lexical processing. First, an analysis of data from a series of word-spotting experiments is presented suggesting that listeners treat vowels as more mutable than consonants in auditory word recognition in English. In order to assess this hypothesis, a word reconstruction task was devised in which listeners were required to turn word-like nonwords into words by adapting the identity of either one vowel or one consonant. Listeners modified vowel identity more readily than consonant identity. Furthermore, incorrect responses more often involved a vowel change than a consonant change. These findings are compatible with the proposal that English listeners are equipped to deal with vowel variability by assuming that vowel identity is comparatively underdefined. The results are discussed in the light of theoretical accounts of speech processing.}
+      \field{issn}{1532-5946}
+      \field{issue}{5}
+      \field{journaltitle}{Memory & Cognition}
+      \field{title}{Vowel mutability and lexical selection in English: Evidence from a word reconstruction task}
+      \field{volume}{24}
+      \field{year}{1996}
+      \field{pages}{573\bibrangedash 583}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.3758/BF03201084
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3758/BF03201084
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3758/BF03201084
+      \endverb
+    \endentry
+    \entry{Parea_2004}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c639d3aa5f2f2ad66fc1d07143a2d594}{%
+           family={Perea},
+           familyi={P\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7c658014ceef5f3270727bf49b92923}{%
+           family={Lupker},
+           familyi={L\bibinitperiod},
+           given={Stephen\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{11bb8b264f8661c61493fbc8adf3f50d}
+      \strng{fullhash}{11bb8b264f8661c61493fbc8adf3f50d}
+      \strng{bibnamehash}{11bb8b264f8661c61493fbc8adf3f50d}
+      \strng{authorbibnamehash}{11bb8b264f8661c61493fbc8adf3f50d}
+      \strng{authornamehash}{11bb8b264f8661c61493fbc8adf3f50d}
+      \strng{authorfullhash}{11bb8b264f8661c61493fbc8adf3f50d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nonwords created by transposing two adjacent letters (i.e., transposed-letter (TL) nonwords like jugde) are very effective at activating the lexical representation of their base words. This fact poses problems for most computational models of word recognition (e.g., the interactive-activation model and its extensions), which assume that exact letter positions are rapidly coded during the word recognition process. To examine the scope of TL similarity effects further, we asked whether TL similarity effects occur for nonwords created by exchanging two nonadjacent letters (e.g., caniso-CASINO) in three masked form priming experiments using the lexical decision task. The two nonadjacent transposed letters were consonants in Experiment 1 (e.g., caniso-CASINO), vowels in Experiment 2 (anamil-ANIMAL) and both consonants and vowels in Experiment 3. Results showed that nonadjacent TL primes produce priming effects (in comparison to orthographic controls, e.g., caviro-CASINO), however, only when the transposed letters are consonants. In a final experiment we examined latencies for nonwords created by nonadjacent transpositions of consonants versus vowels in a lexical decision task. Both types of nonwords produced longer latencies than matched controls, with consonant TL nonwords being more difficult than vowel TL nonwords. The implications of these findings for models having “position-specific” coding schemes as well as for models proposing alternative coding schemes are discussed.}
+      \field{issn}{0749-596X}
+      \field{issue}{2}
+      \field{journaltitle}{Journal of Memory and Language}
+      \field{title}{Can CANISO activate CASINO? Transposed-letter similarity effects with nonadjacent letter positions}
+      \field{volume}{51}
+      \field{year}{2004}
+      \field{pages}{231\bibrangedash 246}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jml.2004.05.005
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0749596X04000592
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0749596X04000592
+      \endverb
+      \keyw{Coding schemes,Lexical decision,Orthographic similarity,Transposed letters,Vowel/consonant processing}
+    \endentry
+    \entry{Toro_2008}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=08ac74d90114b31432d56e2de95224b7}{%
+           family={Toro},
+           familyi={T\bibinitperiod},
+           given={Juan\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f6b4b6dd4fb670bbdd67eeae63b2eec}{%
+           family={Nespor},
+           familyi={N\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2db544a969f488fa2ccd883d9724cb88}{%
+           family={Mehler},
+           familyi={M\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40d926964460414ad4f7daef3bffc9f6}{%
+           family={Bonatti},
+           familyi={B\bibinitperiod},
+           given={Luca\bibnamedelima L},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d35c1decc45add04d8f8a494587b251e}
+      \strng{fullhash}{ba8f1172738d240da0b509391dae25fa}
+      \strng{bibnamehash}{ba8f1172738d240da0b509391dae25fa}
+      \strng{authorbibnamehash}{ba8f1172738d240da0b509391dae25fa}
+      \strng{authornamehash}{d35c1decc45add04d8f8a494587b251e}
+      \strng{authorfullhash}{ba8f1172738d240da0b509391dae25fa}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We have proposed that consonants give cues primarily about the lexicon, whereas vowels carry cues about syntax. In a study supporting this hypothesis, we showed that when segmenting words from an artificial continuous stream, participants compute statistical relations over consonants, but not over vowels. In the study reported here, we tested the symmetrical hypothesis that when participants listen to words in a speech stream, they tend to exploit relations among vowels to extract generalizations, but tend to disregard the same relations among consonants. In our streams, participants could segment words on the basis of transitional probabilities in one tier and could extract a structural regularity in the other tier. Participants used consonants to extract words, but vowels to extract a structural generalization. They were unable to extract the same generalization using consonants, even when word segmentation was facilitated and the generalization made simpler. Our results suggest that different signal-driven computations prime lexical and grammatical processing.}
+      \field{issue}{2}
+      \field{journaltitle}{Psychological Science}
+      \field{note}{PMID: 18271861}
+      \field{title}{Finding Words and Rules in a Speech Stream: Functional Differences Between Vowels and Consonants}
+      \field{volume}{19}
+      \field{year}{2008}
+      \field{pages}{137\bibrangedash 144}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1111/j.1467-9280.2008.02059.x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1111/j.1467-9280.2008.02059.x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111/j.1467-9280.2008.02059.x
+      \endverb
+    \endentry
+    \entry{Toro_2023}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c4f49da6ec6ccb697f4df874191d8d5}{%
+           family={Toro},
+           familyi={T\bibinitperiod},
+           given={Juan\bibnamedelima Manuel},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6c4f49da6ec6ccb697f4df874191d8d5}
+      \strng{fullhash}{6c4f49da6ec6ccb697f4df874191d8d5}
+      \strng{bibnamehash}{6c4f49da6ec6ccb697f4df874191d8d5}
+      \strng{authorbibnamehash}{6c4f49da6ec6ccb697f4df874191d8d5}
+      \strng{authornamehash}{6c4f49da6ec6ccb697f4df874191d8d5}
+      \strng{authorfullhash}{6c4f49da6ec6ccb697f4df874191d8d5}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Current large language models, such as OpenAI's ChatGPT, have captured the public's attention because how remarkable they are in the use of language. Here, I demonstrate that ChatGPT displays phonological biases that are a hallmark of human language processing. More concretely, just like humans, ChatGPT has a consonant bias. That is, the chatbot has a tendency to use consonants over vowels to identify words. This is observed across languages that differ in their relative distribution of consonants and vowels such as English and Spanish. Despite the differences in how current artificial intelligence language models are trained to process linguistic stimuli and how human infants acquire language, such training seems to be enough for the emergence of a phonological bias in ChatGPT.}
+      \field{title}{Emergence of a phonological bias in ChatGPT}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.48550/arXiv.2305.15929
+      \endverb
+      \keyw{Artificial intelligence,ChatGPT,Consonant bias,Word recognition}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{Boatman_1997}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=4680c3e6134d53c62f06c1782f96902a}{%
+           family={Boatman},
+           familyi={B\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76c283b9cf69fe03ee100942b0e89ad4}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bd5d7a8c2a01cf8d3d1a6ceaa6f93a7}{%
+           family={Goldstein},
+           familyi={G\bibinitperiod},
+           given={M\bibnamedelima H},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e615b772eccee241bd025d3db8796b52}{%
+           family={Lesser},
+           familyi={L\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad679ca76f660145bc4fe37213a359cb}{%
+           family={Gordon},
+           familyi={G\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{112097c7d38831c220cb1b887ba5fd74}
+      \strng{fullhash}{e0ba7ba0a9d480b59476382f5dcbfc59}
+      \strng{bibnamehash}{e0ba7ba0a9d480b59476382f5dcbfc59}
+      \strng{authorbibnamehash}{e0ba7ba0a9d480b59476382f5dcbfc59}
+      \strng{authornamehash}{112097c7d38831c220cb1b887ba5fd74}
+      \strng{authorfullhash}{e0ba7ba0a9d480b59476382f5dcbfc59}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The effects of direct cortical electrical interference on consonant and vowel discrimination were investigated in five patients with implanted subdural electrode arrays. Without electrical interference, patients' performance discriminating consonants and vowels was intact. With electrical interference, consonant discrimination was impaired at one electrode site in each patient on the superior temporal gyrus of the lateral left perisylvian cortex. Conversely, vowel and tone discrimination remained relatively intact when tested with electrical interference at the same site. Analysis of patients' consonant discrimination errors revealed that neither differences in acoustic temporal structure nor syllable position fully account for the consonantvowel perceptual dissociations elicited. Our data suggest that at the cortical level consonant and vowel perception are intrinsically distinct perceptual phenomena. The selective impairment of consonant, but not vowel, discrimination further suggests that consonant and vowel perception are distinguished by differences in relative dependence on the functional - perhaps integrative - resources of the left lateral superior temporal gyrus.}
+      \field{issn}{0010-9452}
+      \field{issue}{1}
+      \field{journaltitle}{Cortex}
+      \field{title}{Neuroperceptual Differences in Consonant and Vowel Discrimination: As Revealed by Direct Cortical Electrical Interference}
+      \field{volume}{33}
+      \field{year}{1997}
+      \field{pages}{83\bibrangedash 98}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0010-9452(97)80006-8
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0010945297800068
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0010945297800068
+      \endverb
+    \endentry
+    \entry{Bonatti_2005}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=40d926964460414ad4f7daef3bffc9f6}{%
+           family={Bonatti},
+           familyi={B\bibinitperiod},
+           given={Luca\bibnamedelima L},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=884ec5e2575f3635ab5a083d34ac8e9b}{%
+           family={Peña},
+           familyi={P\bibinitperiod},
+           given={Marcela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f6b4b6dd4fb670bbdd67eeae63b2eec}{%
+           family={Nespor},
+           familyi={N\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2db544a969f488fa2ccd883d9724cb88}{%
+           family={Mehler},
+           familyi={M\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{04fab9668f0f3745469ef7bdabee8de6}
+      \strng{fullhash}{5eb11560b2061a71834416212f0786ff}
+      \strng{bibnamehash}{5eb11560b2061a71834416212f0786ff}
+      \strng{authorbibnamehash}{5eb11560b2061a71834416212f0786ff}
+      \strng{authornamehash}{04fab9668f0f3745469ef7bdabee8de6}
+      \strng{authorfullhash}{5eb11560b2061a71834416212f0786ff}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Speech is produced mainly in continuous streams containing several words. Listeners can use the transitional probability (TP) between adjacent and non-adjacent syllables to segment “words” from a continuous stream of artificial speech, much as they use TPs to organize a variety of perceptual continua. It is thus possible that a general-purpose statistical device exploits any speech unit to achieve segmentation of speech streams. Alternatively, language may limit what representations are open to statistical investigation according to their specific linguistic role. In this article, we focus on vowels and consonants in continuous speech. We hypothesized that vowels and consonants in words carry different kinds of information, the latter being more tied to word identification and the former to grammar. We thus predicted that in a word identification task involving continuous speech, learners would track TPs among consonants, but not among vowels. Our results show a preferential role for consonants in word identification.}
+      \field{issue}{6}
+      \field{journaltitle}{Psychological Science}
+      \field{note}{PMID: 15943671}
+      \field{title}{Linguistic Constraints on Statistical Computations: The Role of Consonants and Vowels in Continuous Speech Processing}
+      \field{volume}{16}
+      \field{year}{2005}
+      \field{pages}{451\bibrangedash 459}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1111/j.0956-7976.2005.01556.x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1111/j.0956-7976.2005.01556.x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111/j.0956-7976.2005.01556.x
+      \endverb
+    \endentry
+    \entry{Nazzi_2015}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=8890f0ecb4b1949c99fa7cf21c7fe553}{%
+           family={Bouchon},
+           familyi={B\bibinitperiod},
+           given={Camillia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79822fd807e415220b8a0ce76687d96a}{%
+           family={Floccia},
+           familyi={F\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d51731a05d845814ed6edece14887ea7}{%
+           family={Fux},
+           familyi={F\bibinitperiod},
+           given={Thibaut},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d6b671c5c66144a8861594ded21e823}{%
+           family={Adda-Decker},
+           familyi={A\bibinithyphendelim D\bibinitperiod},
+           given={Martine},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c15923d84a5bcffb34bf0423b98f5fb}{%
+           family={Nazzi},
+           familyi={N\bibinitperiod},
+           given={Thierry},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{598f471c19f5ffe787031cc9f2476743}
+      \strng{fullhash}{0911c8a535b1a27d5630234a616aa783}
+      \strng{bibnamehash}{0911c8a535b1a27d5630234a616aa783}
+      \strng{authorbibnamehash}{0911c8a535b1a27d5630234a616aa783}
+      \strng{authornamehash}{598f471c19f5ffe787031cc9f2476743}
+      \strng{authorfullhash}{0911c8a535b1a27d5630234a616aa783}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Consonants and vowels differ acoustically and articulatorily, but also functionally: Consonants are more relevant for lexical processing, and vowels for prosodic/syntactic processing. These functional biases could be powerful bootstrapping mechanisms for learning language, but their developmental origin remains unclear. The relative importance of consonants and vowels at the onset of lexical acquisition was assessed in French-learning 5-month-olds by testing sensitivity to minimal phonetic changes in their own name. Infants’ reactions to mispronunciations revealed sensitivity to vowel but not consonant changes. Vowels were also more salient (on duration and intensity) but less distinct (on spectrally based measures) than consonants. Lastly, vowel (but not consonant) mispronunciation detection was modulated by acoustic factors, in particular spectrally based distance. These results establish that consonant changes do not affect lexical recognition at 5 months, while vowel changes do; the consonant bias observed later in development does not emerge until after 5 months through additional language exposure.}
+      \field{journaltitle}{Developmental Science}
+      \field{number}{4}
+      \field{title}{Call me Alix, not Elix: vowels are more important than consonants in own-name recognition at 5 months}
+      \field{volume}{18}
+      \field{year}{2015}
+      \field{pages}{587\bibrangedash 598}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1111/desc.12242
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1111/desc.12242
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12242
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12242
+      \endverb
+    \endentry
+    \entry{Toro_2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8890f0ecb4b1949c99fa7cf21c7fe553}{%
+           family={Bouchon},
+           familyi={B\bibinitperiod},
+           given={Camillia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08ac74d90114b31432d56e2de95224b7}{%
+           family={Toro},
+           familyi={T\bibinitperiod},
+           given={Juan\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d43f6f7f3cdbcc14762f46b89a1d36a0}
+      \strng{fullhash}{d43f6f7f3cdbcc14762f46b89a1d36a0}
+      \strng{bibnamehash}{d43f6f7f3cdbcc14762f46b89a1d36a0}
+      \strng{authorbibnamehash}{d43f6f7f3cdbcc14762f46b89a1d36a0}
+      \strng{authornamehash}{d43f6f7f3cdbcc14762f46b89a1d36a0}
+      \strng{authorfullhash}{d43f6f7f3cdbcc14762f46b89a1d36a0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In natural languages, vowels tend to convey structures (syntax, prosody) while consonants are more important lexically. The consonant bias, which is the tendency to rely more on consonants than on vowels to process words, is well attested in human adults and infants after the first year of life. Is the consonant bias based on evolutionarily ancient mechanisms, potentially present in other species? The current study investigated this issue in a species phylogenetically distant from humans: Long–Evans rats. During training, the animals were presented with four natural word-forms (e.g., mano, “hand”). We then compared their responses to novel words carrying either a consonant (pano) or a vowel change (meno). Results show that the animals were less disrupted by consonantal alterations than by vocalic alterations of words. That is, word recognition was more affected by the alteration of a vowel than a consonant. Together with previous findings in very young human infants, this reliance on vocalic information we observe in rats suggests that the emergence of the consonant bias may require a combination of vocal, cognitive and auditory skills that rodents do not seem to possess.}
+      \field{issn}{1435-9456}
+      \field{issue}{5}
+      \field{journaltitle}{Animal Cognition}
+      \field{title}{Is the consonant bias specifically human? Long–Evans rats encode vowels better than consonants in words}
+      \field{volume}{22}
+      \field{year}{2019}
+      \field{pages}{839\bibrangedash 850}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/s10071-019-01280-3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10071-019-01280-3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10071-019-01280-3
+      \endverb
+    \endentry
+    \entry{Caramazza_2000}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=92d05f5d386a7f8a618b43d747591049}{%
+           family={Caramazza},
+           familyi={C\bibinitperiod},
+           given={Alfonso},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=951294546fedc81d98528c37c9af6b0b}{%
+           family={Chialant},
+           familyi={C\bibinitperiod},
+           given={Doriana},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=489de751c96cf65a8a5f9c1df76e6f1e}{%
+           family={Capasso},
+           familyi={C\bibinitperiod},
+           given={Rita},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4356807f7b7d2b3b08800cc88aaf13e4}{%
+           family={Miceli},
+           familyi={M\bibinitperiod},
+           given={Gabriele},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dcc5a04a4df45c9900297eb39e6b314f}
+      \strng{fullhash}{fa7d8304c9d5cc4b5206eb95535af505}
+      \strng{bibnamehash}{fa7d8304c9d5cc4b5206eb95535af505}
+      \strng{authorbibnamehash}{fa7d8304c9d5cc4b5206eb95535af505}
+      \strng{authornamehash}{dcc5a04a4df45c9900297eb39e6b314f}
+      \strng{authorfullhash}{fa7d8304c9d5cc4b5206eb95535af505}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There are two views about the nature of consonants and vowels. One view holds that they are categorically distinct objects that play a fundamental role in the construction of syllables in speech production1,2,3. The other view is that they are convenient labels for distinguishing between peak (vowel) and non-peak (consonant) parts of a continuous stream of sound that varies in sonority (roughly the degree of openness of the vocal apparatus during speech)4,5,6, or that they are summary labels for bundles of feature segments7,8. Taking the latter view, consonants and vowels do not have an independent status in language processing. Here we provide evidence for the possible categorical distinction between consonants and vowels in the brain. We report the performance of two Italian-speaking aphasics who show contrasting, selective difficulties in producing vowels and consonants. Their performance in producing individual consonants is independent of the sonority value and feature properties of the consonants. This pattern of results suggests that consonants and vowels are processed by distinct neural mechanisms, thereby providing evidence for their independent status in language production.}
+      \field{issn}{1476-4687}
+      \field{issue}{6768}
+      \field{journaltitle}{Nature}
+      \field{title}{Separable processing of consonants and vowels}
+      \field{volume}{403}
+      \field{year}{2000}
+      \field{pages}{428\bibrangedash 430}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1038/35000206
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/35000206
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/35000206
+      \endverb
+    \endentry
+    \entry{Carreiras_2008}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=179abed4d8da28871e0dcbe897e32bde}{%
+           family={Carreiras},
+           familyi={C\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f43f5e116fee0a45ecd6737b6f3e1a1}{%
+           family={Price},
+           familyi={P\bibinitperiod},
+           given={Cathy\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dc776ed44ecad87ebede85f75fe1b46c}
+      \strng{fullhash}{dc776ed44ecad87ebede85f75fe1b46c}
+      \strng{bibnamehash}{dc776ed44ecad87ebede85f75fe1b46c}
+      \strng{authorbibnamehash}{dc776ed44ecad87ebede85f75fe1b46c}
+      \strng{authornamehash}{dc776ed44ecad87ebede85f75fe1b46c}
+      \strng{authorfullhash}{dc776ed44ecad87ebede85f75fe1b46c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Previous behavioral and electrophysiological studies have shown dissociation between consonants and vowels. We used functional magnetic resonance imaging to investigate whether vowel and consonant processing differences are expressed in the neuronal activation pattern and whether they are modulated by task. The experimental design involved reading aloud and lexical decision on visually presented pseudowords created by transposing or replacing consonants or vowels in words. During reading aloud, changing vowels relative to consonants increased activation in a right middle temporal area previously associated with prosodic processing of speech input. In contrast, during lexical decision, changing consonants relative to vowels increased activation in a right middle frontal area associated with inhibiting go-responses. The task-sensitive nature of these effects demonstrates that consonants and vowels differ at a processing, rather than stimulus, level. We argue that prosodic processing of vowel changes arise during self-monitoring of speech output, whereas greater inhibition of go-responses to consonant changes follows insufficient lexico-semantic processing when nonwords looking particularly like words must be rejected. Our results are consistent with claims that vowels and consonants place differential demands on prosodic and lexico-semantic processing, respectively. They also highlight the different types of information that can be drawn from functional imaging and neuropsychological studies.}
+      \field{issn}{1047-3211}
+      \field{issue}{7}
+      \field{journaltitle}{Cerebral Cortex}
+      \field{month}{7}
+      \field{title}{Brain Activation for Consonants and Vowels}
+      \field{volume}{18}
+      \field{year}{2008}
+      \field{pages}{1727\bibrangedash 1735}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1093/cercor/bhm202
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/cercor/bhm202
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/cercor/bhm202
+      \endverb
+    \endentry
+    \entry{Mallikarjun_2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=511e7b6f5347995f876e0d45096d9263}{%
+           family={Mallikarjun},
+           familyi={M\bibinitperiod},
+           given={Amritha},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09293a6374870982c9c343807dbd46a7}{%
+           family={Shroads},
+           familyi={S\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f7612024bbedfc44ec025fd3790aec9}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={Rochelle\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fa356668566392b3647d73273a924e70}
+      \strng{fullhash}{282f86064daafd42902044d4477e22a6}
+      \strng{bibnamehash}{282f86064daafd42902044d4477e22a6}
+      \strng{authorbibnamehash}{282f86064daafd42902044d4477e22a6}
+      \strng{authornamehash}{fa356668566392b3647d73273a924e70}
+      \strng{authorfullhash}{282f86064daafd42902044d4477e22a6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Consonants and vowels play different roles in speech perception: listeners rely more heavily on consonant information rather than vowel information when distinguishing between words. This reliance on consonants for word identification is the consonant bias Nespor et al. (Ling 2:203–230, 2003). Several factors modulate infants’ development of the consonant bias, including fine-grained temporal processing ability and native language exposure [for review, see Nazzi et al. (Curr Direct Psychol Sci 25:291–296, 2016)]. A rat model demonstrated that mature fine-grained temporal processing alone cannot account for consonant bias emergence; linguistic exposure is also necessary Bouchon and Toro (An Cog 22:839–850, 2019). This study tested domestic dogs, who have similarly fine-grained temporal processing but more language exposure than rats, to assess whether a minimal lexicon and small degree of regular linguistic exposure can allow for consonant bias development. Dogs demonstrated a vowel bias rather than a consonant bias, preferring their own name over a vowel-mispronounced version of their name, but not in comparison to a consonant-mispronounced version. This is the pattern seen in young infants Bouchon et al. (Dev Sci 18:587–598, 2015) and rats Bouchon et al. (An Cog 22:839–850, 2019). In a follow-up study, dogs treated a consonant-mispronounced version of their name similarly to their actual name, further suggesting that dogs do not treat consonant differences as meaningful for word identity. These results support the findings from Bouchon and Toro (An Cog 2:839–850, 2019), suggesting that there may be a default preference for vowel information over consonant information when identifying word forms, and that the consonant bias may be a human-exclusive tool for language learning.}
+      \field{issn}{1435-9456}
+      \field{issue}{3}
+      \field{journaltitle}{Animal Cognition}
+      \field{title}{The role of linguistic experience in the development of the consonant bias}
+      \field{volume}{24}
+      \field{year}{2021}
+      \field{pages}{419\bibrangedash 431}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s10071-020-01436-6
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10071-020-01436-6
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10071-020-01436-6
+      \endverb
+    \endentry
+    \entry{Ooijen_1996}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=07ffe41b1c1eb5bbcd2c9b1fd4fe7ded}{%
+           family={Ooijen},
+           familyi={O\bibinitperiod},
+           given={Brit\bibnamedelima Van},
+           giveni={B\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{07ffe41b1c1eb5bbcd2c9b1fd4fe7ded}
+      \strng{fullhash}{07ffe41b1c1eb5bbcd2c9b1fd4fe7ded}
+      \strng{bibnamehash}{07ffe41b1c1eb5bbcd2c9b1fd4fe7ded}
+      \strng{authorbibnamehash}{07ffe41b1c1eb5bbcd2c9b1fd4fe7ded}
+      \strng{authornamehash}{07ffe41b1c1eb5bbcd2c9b1fd4fe7ded}
+      \strng{authorfullhash}{07ffe41b1c1eb5bbcd2c9b1fd4fe7ded}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Laboratoire de Sciences Cognitives et Psycholinguistique, Paris, France This study introduces a new paradigm for investigating lexical processing. First, an analysis of data from a series of word-spotting experiments is presented suggesting that listeners treat vowels as more mutable than consonants in auditory word recognition in English. In order to assess this hypothesis, a word reconstruction task was devised in which listeners were required to turn word-like nonwords into words by adapting the identity of either one vowel or one consonant. Listeners modified vowel identity more readily than consonant identity. Furthermore, incorrect responses more often involved a vowel change than a consonant change. These findings are compatible with the proposal that English listeners are equipped to deal with vowel variability by assuming that vowel identity is comparatively underdefined. The results are discussed in the light of theoretical accounts of speech processing.}
+      \field{issn}{1532-5946}
+      \field{issue}{5}
+      \field{journaltitle}{Memory & Cognition}
+      \field{title}{Vowel mutability and lexical selection in English: Evidence from a word reconstruction task}
+      \field{volume}{24}
+      \field{year}{1996}
+      \field{pages}{573\bibrangedash 583}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.3758/BF03201084
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3758/BF03201084
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3758/BF03201084
+      \endverb
+    \endentry
+    \entry{Parea_2004}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c639d3aa5f2f2ad66fc1d07143a2d594}{%
+           family={Perea},
+           familyi={P\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7c658014ceef5f3270727bf49b92923}{%
+           family={Lupker},
+           familyi={L\bibinitperiod},
+           given={Stephen\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{11bb8b264f8661c61493fbc8adf3f50d}
+      \strng{fullhash}{11bb8b264f8661c61493fbc8adf3f50d}
+      \strng{bibnamehash}{11bb8b264f8661c61493fbc8adf3f50d}
+      \strng{authorbibnamehash}{11bb8b264f8661c61493fbc8adf3f50d}
+      \strng{authornamehash}{11bb8b264f8661c61493fbc8adf3f50d}
+      \strng{authorfullhash}{11bb8b264f8661c61493fbc8adf3f50d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nonwords created by transposing two adjacent letters (i.e., transposed-letter (TL) nonwords like jugde) are very effective at activating the lexical representation of their base words. This fact poses problems for most computational models of word recognition (e.g., the interactive-activation model and its extensions), which assume that exact letter positions are rapidly coded during the word recognition process. To examine the scope of TL similarity effects further, we asked whether TL similarity effects occur for nonwords created by exchanging two nonadjacent letters (e.g., caniso-CASINO) in three masked form priming experiments using the lexical decision task. The two nonadjacent transposed letters were consonants in Experiment 1 (e.g., caniso-CASINO), vowels in Experiment 2 (anamil-ANIMAL) and both consonants and vowels in Experiment 3. Results showed that nonadjacent TL primes produce priming effects (in comparison to orthographic controls, e.g., caviro-CASINO), however, only when the transposed letters are consonants. In a final experiment we examined latencies for nonwords created by nonadjacent transpositions of consonants versus vowels in a lexical decision task. Both types of nonwords produced longer latencies than matched controls, with consonant TL nonwords being more difficult than vowel TL nonwords. The implications of these findings for models having “position-specific” coding schemes as well as for models proposing alternative coding schemes are discussed.}
+      \field{issn}{0749-596X}
+      \field{issue}{2}
+      \field{journaltitle}{Journal of Memory and Language}
+      \field{title}{Can CANISO activate CASINO? Transposed-letter similarity effects with nonadjacent letter positions}
+      \field{volume}{51}
+      \field{year}{2004}
+      \field{pages}{231\bibrangedash 246}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jml.2004.05.005
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0749596X04000592
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0749596X04000592
+      \endverb
+      \keyw{Coding schemes,Lexical decision,Orthographic similarity,Transposed letters,Vowel/consonant processing}
+    \endentry
+    \entry{Toro_2008}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=08ac74d90114b31432d56e2de95224b7}{%
+           family={Toro},
+           familyi={T\bibinitperiod},
+           given={Juan\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f6b4b6dd4fb670bbdd67eeae63b2eec}{%
+           family={Nespor},
+           familyi={N\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2db544a969f488fa2ccd883d9724cb88}{%
+           family={Mehler},
+           familyi={M\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40d926964460414ad4f7daef3bffc9f6}{%
+           family={Bonatti},
+           familyi={B\bibinitperiod},
+           given={Luca\bibnamedelima L},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d35c1decc45add04d8f8a494587b251e}
+      \strng{fullhash}{ba8f1172738d240da0b509391dae25fa}
+      \strng{bibnamehash}{ba8f1172738d240da0b509391dae25fa}
+      \strng{authorbibnamehash}{ba8f1172738d240da0b509391dae25fa}
+      \strng{authornamehash}{d35c1decc45add04d8f8a494587b251e}
+      \strng{authorfullhash}{ba8f1172738d240da0b509391dae25fa}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We have proposed that consonants give cues primarily about the lexicon, whereas vowels carry cues about syntax. In a study supporting this hypothesis, we showed that when segmenting words from an artificial continuous stream, participants compute statistical relations over consonants, but not over vowels. In the study reported here, we tested the symmetrical hypothesis that when participants listen to words in a speech stream, they tend to exploit relations among vowels to extract generalizations, but tend to disregard the same relations among consonants. In our streams, participants could segment words on the basis of transitional probabilities in one tier and could extract a structural regularity in the other tier. Participants used consonants to extract words, but vowels to extract a structural generalization. They were unable to extract the same generalization using consonants, even when word segmentation was facilitated and the generalization made simpler. Our results suggest that different signal-driven computations prime lexical and grammatical processing.}
+      \field{issue}{2}
+      \field{journaltitle}{Psychological Science}
+      \field{note}{PMID: 18271861}
+      \field{title}{Finding Words and Rules in a Speech Stream: Functional Differences Between Vowels and Consonants}
+      \field{volume}{19}
+      \field{year}{2008}
+      \field{pages}{137\bibrangedash 144}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1111/j.1467-9280.2008.02059.x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1111/j.1467-9280.2008.02059.x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111/j.1467-9280.2008.02059.x
+      \endverb
+    \endentry
+    \entry{Toro_2023}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c4f49da6ec6ccb697f4df874191d8d5}{%
+           family={Toro},
+           familyi={T\bibinitperiod},
+           given={Juan\bibnamedelima Manuel},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6c4f49da6ec6ccb697f4df874191d8d5}
+      \strng{fullhash}{6c4f49da6ec6ccb697f4df874191d8d5}
+      \strng{bibnamehash}{6c4f49da6ec6ccb697f4df874191d8d5}
+      \strng{authorbibnamehash}{6c4f49da6ec6ccb697f4df874191d8d5}
+      \strng{authornamehash}{6c4f49da6ec6ccb697f4df874191d8d5}
+      \strng{authorfullhash}{6c4f49da6ec6ccb697f4df874191d8d5}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Current large language models, such as OpenAI's ChatGPT, have captured the public's attention because how remarkable they are in the use of language. Here, I demonstrate that ChatGPT displays phonological biases that are a hallmark of human language processing. More concretely, just like humans, ChatGPT has a consonant bias. That is, the chatbot has a tendency to use consonants over vowels to identify words. This is observed across languages that differ in their relative distribution of consonants and vowels such as English and Spanish. Despite the differences in how current artificial intelligence language models are trained to process linguistic stimuli and how human infants acquire language, such training seems to be enough for the emergence of a phonological bias in ChatGPT.}
+      \field{title}{Emergence of a phonological bias in ChatGPT}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.48550/arXiv.2305.15929
+      \endverb
+      \keyw{Artificial intelligence,ChatGPT,Consonant bias,Word recognition}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
